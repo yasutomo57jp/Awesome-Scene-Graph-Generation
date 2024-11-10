@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Awesome-Scene-Graph-for-Cross-Modal-Learning </h1> 
+<h1> Awesome-Scene-Graph-Generation </h1> 
 </div>
 
 
