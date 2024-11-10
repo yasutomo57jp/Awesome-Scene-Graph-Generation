@@ -15,8 +15,6 @@ In this graph, the nodes correspond to object bounding boxes with their category
 ---
 
 # 📕 Table of Contents
-- [🎨 Introduction](#-introduction)
-- [📕 Table of Contents](#-contents)
 - [🌷 Scene Graph Datasets](#-datasets)
 - [🍕 Scene Graph Generation](#-scene-graph-generation)
   - [2D (Image) Scene Graph Generation](#2d-image-scene-graph-generation)
