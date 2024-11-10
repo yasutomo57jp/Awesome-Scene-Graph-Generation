@@ -605,7 +605,6 @@ Here, we provide some toolkits for parsing scene graphs or other useful tools fo
 
 ## Survey
 
-+ [**Scene Graphs: A Survey of Generations and Applications**](https://www.xiaojun.ai/papers/Scene-Graph-Survey.pdf)
 
 + [**Scene Graph Generation: A Comprehensive Survey**](https://arxiv.org/pdf/2201.00443)
 
