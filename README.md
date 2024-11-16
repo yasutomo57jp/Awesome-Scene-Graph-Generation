@@ -75,6 +75,7 @@ In this graph, the nodes correspond to object bounding boxes with their category
 | [AeroEye](https://arxiv.org/pdf/2406.01029) | Video (Drone-View) | 56 | - | 384 | - | 2.2M |
 | [PVSG](https://jingkang50.github.io/PVSG/) | Video (panoptic) | 126 | - |  57 |  4,587 | 400|
 | [ASPIRe](https://uark-cviu.github.io/ASPIRe/) | Video(Interlacements) | - | - | 4.5K | - | 1.5K |
+| [Ego-EASG](https://github.com/fpv-iplab/EASG) | Video(Ego-view) | 407 | - | 235 | - | - |
 | [3D Semantic Scene Graphs (3DSSG)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wald_Learning_3D_Semantic_Scene_Graphs_From_3D_Indoor_Reconstructions_CVPR_2020_paper.pdf) | 3D | 528 | - | 39 | - | 48K|
 | [PSG4D](https://arxiv.org/pdf/2405.10305) | 4D | 46 | - | 15 | - | - | - |
 | [4D-OR](https://github.com/egeozsoy/4D-OR) | 4D(operating room) | 12 | - | 14 | - | - |
@@ -197,6 +198,13 @@ There are three subtasks:
 + [**IS-GGT: Iterative Scene Graph Generation With Generative Transformers**](https://openaccess.thecvf.com/content/CVPR2023/papers/Kundu_IS-GGT_Iterative_Scene_Graph_Generation_With_Generative_Transformers_CVPR_2023_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR23-8A2BE2)]()
 
 
++ [**Learning to Generate Language-supervised and Open-vocabulary Scene Graph using Pre-trained Visual-Semantic Space**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Learning_To_Generate_Language-Supervised_and_Open-Vocabulary_Scene_Graph_Using_Pre-Trained_CVPR_2023_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR23-8A2BE2)]() 
+
++ [**Fast Contextual Scene Graph Generation with Unbiased Context Augmentation**](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Fast_Contextual_Scene_Graph_Generation_With_Unbiased_Context_Augmentation_CVPR_2023_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR23-8A2BE2)]() 
+
+
++ [**Devil’s on the Edges: Selective Quad Attention for Scene Graph Generation**](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Fast_Contextual_Scene_Graph_Generation_With_Unbiased_Context_Augmentation_CVPR_2023_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR23-8A2BE2)]() [![Star](https://img.shields.io/github/stars/hesedjds/SQUAT.svg?style=social&label=Star)](https://github.com/hesedjds/SQUAT)
+
 + [**Fine-Grained is Too Coarse: A Novel Data-Centric Approach for Efficient Scene Graph Generation**](https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Neau_Fine-Grained_is_Too_Coarse_A_Novel_Data-Centric_Approach_for_Efficient_ICCVW_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV23W-2f4f4f)]() [![Star](https://img.shields.io/github/stars/Maelic/VG_curated.svg?style=social&label=Star)](https://github.com/Maelic/VG_curated)
 
 + [**Vision Relation Transformer for Unbiased Scene Graph Generation**](https://arxiv.org/pdf/2308.09472) [![Paper](https://img.shields.io/badge/ICCV23-2f4f4f)]() [![Star](https://img.shields.io/github/stars/visinf/veto.svg?style=social&label=Star)](https://github.com/visinf/veto)
@@ -204,11 +212,15 @@ There are three subtasks:
 + [**Compositional Feature Augmentation for Unbiased Scene Graph Generation**](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Compositional_Feature_Augmentation_for_Unbiased_Scene_Graph_Generation_ICCV_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV23-2f4f4f)]() [![Star](https://img.shields.io/github/stars/HKUST-LongGroup/CFA.svg?style=social&label=Star)](https://github.com/HKUST-LongGroup/CFA)
 
 
-+ [**SGTR: End-to-end Scene Graph Generation with Transformer**](https://arxiv.org/pdf/2112.12970) [![Paper](https://img.shields.io/badge/CVPR22-8A2BE2)]() [![Star](https://img.shields.io/github/stars/Scarecrow0/SGTR.svg?style=social&label=Star)](https://github.com/Scarecrow0/SGTR)
++ [**SGTR: End-to-end Scene Graph Generation with Transformer**](https://arxiv.org/pdf/2112.12970) [![Paper](https://img.shields.io/badge/CVPR22-8A2BE2)]() [![Paper](https://img.shields.io/badge/TPAMI24-ffa07a)]() [![Star](https://img.shields.io/github/stars/Scarecrow0/SGTR.svg?style=social&label=Star)](https://github.com/Scarecrow0/SGTR)
 
+
++ [**The Devil Is in the Labels: Noisy Label Correction for Robust Scene Graph Generation**](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_The_Devil_Is_in_the_Labels_Noisy_Label_Correction_for_CVPR_2022_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR22-8A2BE2)]() [![Star](https://img.shields.io/github/stars/muktilin/NICE.svg?style=social&label=Star)](https://github.com/muktilin/NICE)
 
 + [**Unsupervised Vision-Language Parsing: Seamlessly Bridging Visual Scene Graphs with Language Structures via Dependency Relationships**](https://openaccess.thecvf.com/content/CVPR2022/papers/Lou_Unsupervised_Vision-Language_Parsing_Seamlessly_Bridging_Visual_Scene_Graphs_With_Language_CVPR_2022_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR22-8A2BE2)]() [![Star](https://img.shields.io/github/stars/LouChao98/VLGAE.svg?style=social&label=Star)](https://github.com/LouChao98/VLGAE)
 
+
++ [**Not All Relations are Equal: Mining Informative Labels for Scene Graph Generation**](https://openaccess.thecvf.com/content/CVPR2022/papers/Goel_Not_All_Relations_Are_Equal_Mining_Informative_Labels_for_Scene_CVPR_2022_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR22-8A2BE2)]() 
 
 + [**Fine-Grained Scene Graph Generation with Data Transfer**](https://arxiv.org/pdf/2203.11654) [![Paper](https://img.shields.io/badge/ECCV22-1e90ff)]() [![Star](https://img.shields.io/github/stars/waxnkw/IETrans-SGG.pytorch.svg?style=social&label=Star)](https://github.com/waxnkw/IETrans-SGG.pytorch)
 
@@ -217,30 +229,53 @@ There are three subtasks:
 
 + [**Iterative Scene Graph Generation**](https://proceedings.neurips.cc/paper_files/paper/2022/file/99831104028c3b7e6079fd8bdcc42c8f-Paper-Conference.pdf) [![Paper](https://img.shields.io/badge/NIPS22-CD5C5C2)]() [![Star](https://img.shields.io/github/stars/ubc-vision/IterativeSG.svg?style=social&label=Star)](https://github.com/ubc-vision/IterativeSG)
 
-+ [**Linguistic Structures as Weak Supervision for Visual Scene Graph Generation**](https://openaccess.thecvf.com/content/CVPR2021/papers/Ye_Linguistic_Structures_As_Weak_Supervision_for_Visual_Scene_Graph_Generation_CVPR_2021_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR21-8A2BE2)]() [![Star](https://img.shields.io/github/stars/yekeren/WSSGG.svg?style=social&label=Star)](https://github.com/yekeren/WSSGG)
+
++ [**Unbiased Heterogeneous Scene Graph Generation with Relation-Aware Message Passing Neural Network**](https://ojs.aaai.org/index.php/AAAI/article/view/25435/25207) [![Paper](https://img.shields.io/badge/AAAI22-c71585)]() [![Star](https://img.shields.io/github/stars/KanghoonYoon/hetsgg-torch.svg?style=social&label=Star)](https://github.com/KanghoonYoon/hetsgg-torch)
 
 
 + [**VARSCENE: A Deep Generative Model for Realistic Scene Graph Synthesis**](https://proceedings.mlr.press/v162/verma22b/verma22b.pdf) [![Paper](https://img.shields.io/badge/ICML22-FF7F50)]()
 
+
++ [**Linguistic Structures as Weak Supervision for Visual Scene Graph Generation**](https://openaccess.thecvf.com/content/CVPR2021/papers/Ye_Linguistic_Structures_As_Weak_Supervision_for_Visual_Scene_Graph_Generation_CVPR_2021_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR21-8A2BE2)]() [![Star](https://img.shields.io/github/stars/yekeren/WSSGG.svg?style=social&label=Star)](https://github.com/yekeren/WSSGG)
+
+
++ [**CogTree: Cognition Tree Loss for Unbiased Scene Graph Generation**](https://www.ijcai.org/proceedings/2021/0176.pdf) [![Paper](https://img.shields.io/badge/IJCAI21-228b22)]() [![Star](https://img.shields.io/github/stars/CYVincent/Scene-Graph-Transformer-CogTree.svg?style=social&label=Star)](https://github.com/CYVincent/Scene-Graph-Transformer-CogTree)
+
+
 + [**Unconditional Scene Graph Generation**](https://openaccess.thecvf.com/content/ICCV2021/papers/Garg_Unconditional_Scene_Graph_Generation_ICCV_2021_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV21-2f4f4f)]()
+
++ [**Learning to Generate Scene Graph from Natural Language Supervision**](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhong_Learning_To_Generate_Scene_Graph_From_Natural_Language_Supervision_ICCV_2021_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV21-2f4f4f)]()
 
 + [**Context-Aware Scene Graph Generation With Seq2Seq Transformers**](https://openaccess.thecvf.com/content/ICCV2021/papers/Lu_Context-Aware_Scene_Graph_Generation_With_Seq2Seq_Transformers_ICCV_2021_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV21-2f4f4f)]() [![Star](https://img.shields.io/github/stars/layer6ai-labs/SGG-Seq2Seq.svg?style=social&label=Star)](https://github.com/layer6ai-labs/SGG-Seq2Seq)
 
 + [**Generative Compositional Augmentations for Scene Graph Prediction**](https://openaccess.thecvf.com/content/ICCV2021/papers/Knyazev_Generative_Compositional_Augmentations_for_Scene_Graph_Prediction_ICCV_2021_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV21-2f4f4f)]()
 
++ [**Visual Distant Supervision for Scene Graph Generation**](https://openaccess.thecvf.com/content/ICCV2021/papers/Yao_Visual_Distant_Supervision_for_Scene_Graph_Generation_ICCV_2021_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV21-2f4f4f)]() [![Star](https://img.shields.io/github/stars/thunlp/VisualDS.svg?style=social&label=Star)](https://github.com/thunlp/VisualDS)
+
 + [**GPS-Net: Graph Property Sensing Network for Scene Graph Generation**](https://arxiv.org/pdf/2003.12962) [![Paper](https://img.shields.io/badge/CVPR20-8A2BE2)]()  [![Star](https://img.shields.io/github/stars/siml3/GPS-Net.svg?style=social&label=Star)](https://github.com/siml3/GPS-Net)
 
++ [**Weakly Supervised Visual Semantic Parsing**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR20-8A2BE2)]()  [![Star](https://img.shields.io/github/stars/alirezazareian/vspnet.svg?style=social&label=Star)](https://github.com/alirezazareian/vspnet)
+
+
++ [**Unbiased Scene Graph Generation from Biased Training**](https://arxiv.org/pdf/2003.12962) [![Paper](https://img.shields.io/badge/CVPR20-8A2BE2)]()  [![Star](https://img.shields.io/github/stars/KaihuaTang/Scene-Graph-Benchmark.pytorch.svg?style=social&label=Star)](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)
 
 + [**Graphical Contrastive Losses for Scene Graph Parsing**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Graphical_Contrastive_Losses_for_Scene_Graph_Parsing_CVPR_2019_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR19-8A2BE2)]() [![Star](https://img.shields.io/github/stars/NVIDIA/ContrastiveLosses4VRD.svg?style=social&label=Star)](https://github.com/NVIDIA/ContrastiveLosses4VRD)
 
++ [**Visual Relationship Detection with Language Priors**](https://arxiv.org/pdf/1608.00187) [![Paper](https://img.shields.io/badge/AAAI20-191970)]() 
+
+
 + [**Learning to Compose Dynamic Tree Structures for Visual Contexts**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Learning_to_Compose_Dynamic_Tree_Structures_for_Visual_Contexts_CVPR_2019_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR19-8A2BE2)]()  [![Star](https://img.shields.io/github/stars/KaihuaTang/VCTree-Scene-Graph-Generation.svg?style=social&label=Star)](https://github.com/KaihuaTang/VCTree-Scene-Graph-Generation)
+
++ [**Knowledge-Embedded Routing Network for Scene Graph Generation**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Knowledge-Embedded_Routing_Network_for_Scene_Graph_Generation_CVPR_2019_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR19-8A2BE2)]() 
+
++ [**Scene Graph Prediction with Limited Lab**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Scene_Graph_Prediction_With_Limited_Labels_ICCV_2019_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV19-2f4f4f)]() 
 
 + [**Neural motifs: Scene graph parsing with global context**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zellers_Neural_Motifs_Scene_CVPR_2018_paper.pdf)  [![Paper](https://img.shields.io/badge/CVPR18-8A2BE2)]() [![Star](https://img.shields.io/github/stars/rowanz/neural-motifs.svg?style=social&label=Star)](https://github.com/rowanz/neural-motifs)
 
 + [**Scene Graph Generation From Objects, Phrases and Region Captions**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Scene_Graph_Generation_ICCV_2017_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV17-2f4f4f)]() [![Star](https://img.shields.io/github/stars/yikang-li/MSDN.svg?style=social&label=Star)](https://github.com/yikang-li/MSDN)
 
-+ [**Visual Relationship Detection with Language Priors**](https://arxiv.org/pdf/1608.00187) [![Paper](https://img.shields.io/badge/AAAI20-191970)]() 
 
++ [**Visual Relationship Detection with Language Priors**](https://arxiv.org/pdf/1608.00187) [![Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Scene_Graph_Generation_CVPR_2017_paper.pdf)]()   [![Paper](https://img.shields.io/badge/CVPR17-8A2BE2)]()
 
 ## Panoptic Scene Graph Generation
 
@@ -293,12 +328,18 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 ### Non-LLM-based
 
+
+
+
 + [**End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting**](https://arxiv.org/pdf/2409.12499) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
 + [**CYCLO: Cyclic Graph Transformer Approach to Multi-Object Relationship Modeling in Aerial Videos**](https://arxiv.org/pdf/2406.01029) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
 
 + [**OED: Towards One-stage End-to-End Dynamic Scene Graph Generation**](https://arxiv.org/pdf/2405.16925) [![Paper](https://img.shields.io/badge/CVPR24-8A2BE2)]() [![Star](https://img.shields.io/github/stars/guanw-pku/OED.svg?style=social&label=Star)](https://github.com/guanw-pku/OED) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sites.google.com/view/oed-cvpr24/%E9%A6%96%E9%A1%B5)
+
++ [**Action Scene Graphs for Long-Form Understanding of Egocentric Videos**](https://openaccess.thecvf.com/content/CVPR2024/papers/Rodin_Action_Scene_Graphs_for_Long-Form_Understanding_of_Egocentric_Videos_CVPR_2024_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR24-8A2BE2)]() [![Star](https://img.shields.io/github/stars/fpv-iplab/EASG.svg?style=social&label=Star)](https://github.com/fpv-iplab/EASG)
+
 
 + [**HIG: Hierarchical Interlacement Graph Approach to Scene Graph Generation in Video Understanding**](https://arxiv.org/pdf/2312.03050) [![Paper](https://img.shields.io/badge/CVPR24-8A2BE2)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://uark-cviu.github.io/ASPIRe/) <details><summary>Summary</summary>Introduce a new dataset which delves into interactivities understanding within visual content by deriving scene graph representations from dense interactivities among humans and objects</details>
 
@@ -318,10 +359,11 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 + [**Prior Knowledge-driven Dynamic Scene Graph Generation with Causal Inference**](https://dl.acm.org/doi/10.1145/3581783.3612249)  [![Paper](https://img.shields.io/badge/MM23-8b4513)]()
 
++ [**Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs**](https://arxiv.org/pdf/2112.09828) [![Paper](https://img.shields.io/badge/ICLR23-696969)]() [![Star](https://img.shields.io/github/stars/Shengyu-Feng/DSG-DETR.svg?style=social&label=Star)](https://github.com/Shengyu-Feng/DSG-DETR)
+
 + [**Dynamic scene graph generation via temporal prior inference**](https://dl.acm.org/doi/abs/10.1145/3503161.3548324) [![Paper](https://img.shields.io/badge/MM22-8b4513)]()
 
 + [**VRDFormer: End-to-End Video Visual Relation Detection with Transformers**](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR22-8A2BE2)]() [![Star](https://img.shields.io/github/stars/zhengsipeng/VRDFormer_VRD.svg?style=social&label=Star)](https://github.com/zhengsipeng/VRDFormer_VRD)
-
 
 
 + [**Dynamic Scene Graph Generation via Anticipatory Pre-training**](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Dynamic_Scene_Graph_Generation_via_Anticipatory_Pre-Training_CVPR_2022_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR22-8A2BE2)]()
@@ -372,9 +414,18 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 + [**Incremental 3D Semantic Scene Graph Prediction from RGB Sequences**](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Incremental_3D_Semantic_Scene_Graph_Prediction_From_RGB_Sequences_CVPR_2023_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR23-8A2BE2)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shunchengwu.github.io/MonoSSG)
 
++ [**VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud**](https://arxiv.org/pdf/2303.14408) [![Paper](https://img.shields.io/badge/CVPR23-8A2BE2)]() [![Star](https://img.shields.io/github/stars/wz7in/CVPR2023-VLSAT.svg?style=social&label=Star)](https://github.com/wz7in/CVPR2023-VLSAT)
+
++ [**3D Spatial Multimodal Knowledge Accumulation for Scene Graph Prediction in Point Cloud**](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_3D_Spatial_Multimodal_Knowledge_Accumulation_for_Scene_Graph_Prediction_in_CVPR_2023_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR23-8A2BE2)]()
+
++ [**Aria Digital Twin: A New Benchmark Dataset for Egocentric 3D Machine Perception**](https://openaccess.thecvf.com/content/ICCV2023/papers/Pan_Aria_Digital_Twin_A_New_Benchmark_Dataset_for_Egocentric_3D_ICCV_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV23-2f4f4f)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.projectaria.com/datasets/adt/)
+
 + [**Lang3DSG: Language-based contrastive pre-training for 3D Scene Graph prediction**](https://arxiv.org/pdf/2310.16494) [![Paper](https://img.shields.io/badge/arXiv23-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://kochsebastian.com/lang3dsg)
 
 + [**SceneGraphFusion: Incremental 3D Scene Graph Prediction from RGB-D Sequences**](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_SceneGraphFusion_Incremental_3D_Scene_Graph_Prediction_From_RGB-D_Sequences_CVPR_2021_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR21-8A2BE2)]() [![Star](https://img.shields.io/github/stars/ShunChengWu/SceneGraphFusion.svg?style=social&label=Star)](https://github.com/ShunChengWu/SceneGraphFusion) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shunchengwu.github.io/SceneGraphFusion)
+
++ [**Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis**](https://arxiv.org/pdf/2103.05558) [![Paper](https://img.shields.io/badge/CVPR21-8A2BE2)]() [![Star](https://img.shields.io/github/stars/chaoyivision/SGGpoint.svg?style=social&label=Star)](https://github.com/chaoyivision/SGGpoint) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sggpoint.github.io/)
+
 
 + [**Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wald_Learning_3D_Semantic_Scene_Graphs_From_3D_Indoor_Reconstructions_CVPR_2020_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR20-8A2BE2)]()  [![Star](https://img.shields.io/github/stars/ShunChengWu/3DSSG.svg?style=social&label=Star)](https://github.com/ShunChengWu/3DSSG) 
 
@@ -387,6 +438,8 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
  
 + [**4D Panoptic Scene Graph Generation**](https://arxiv.org/pdf/2405.10305) [![Paper](https://img.shields.io/badge/NIPS23-CD5C5C2)]()  [![Star](https://img.shields.io/github/stars/Jingkang50/PSG4D.svg?style=social&label=Star)](https://github.com/Jingkang50/PSG4D)
 
+
++ [**RealGraph: A Multiview Dataset for 4D Real-world Context Graph Generation**](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_RealGraph_A_Multiview_Dataset_for_4D_Real-world_Context_Graph_Generation_ICCV_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV23-2f4f4f)]()  [![Star](https://img.shields.io/github/stars/THU-luvision/RealGraph.svg?style=social&label=Star)](https://github.com/THU-luvision/RealGraph)
 
 
 
