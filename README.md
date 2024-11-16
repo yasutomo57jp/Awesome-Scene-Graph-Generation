@@ -197,6 +197,10 @@ There are three subtasks:
 + [**IS-GGT: Iterative Scene Graph Generation With Generative Transformers**](https://openaccess.thecvf.com/content/CVPR2023/papers/Kundu_IS-GGT_Iterative_Scene_Graph_Generation_With_Generative_Transformers_CVPR_2023_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR23-8A2BE2)]()
 
 
++ [**Fine-Grained is Too Coarse: A Novel Data-Centric Approach for Efficient Scene Graph Generation**](https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Neau_Fine-Grained_is_Too_Coarse_A_Novel_Data-Centric_Approach_for_Efficient_ICCVW_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV23W-2f4f4f)]() [![Star](https://img.shields.io/github/stars/Maelic/VG_curated.svg?style=social&label=Star)](https://github.com/Maelic/VG_curated)
+
++ [**Vision Relation Transformer for Unbiased Scene Graph Generation**](https://arxiv.org/pdf/2308.09472) [![Paper](https://img.shields.io/badge/ICCV23-2f4f4f)]() [![Star](https://img.shields.io/github/stars/visinf/veto.svg?style=social&label=Star)](https://github.com/visinf/veto)
+
 + [**Compositional Feature Augmentation for Unbiased Scene Graph Generation**](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Compositional_Feature_Augmentation_for_Unbiased_Scene_Graph_Generation_ICCV_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV23-2f4f4f)]() [![Star](https://img.shields.io/github/stars/HKUST-LongGroup/CFA.svg?style=social&label=Star)](https://github.com/HKUST-LongGroup/CFA)
 
 
@@ -207,6 +211,9 @@ There are three subtasks:
 
 
 + [**Fine-Grained Scene Graph Generation with Data Transfer**](https://arxiv.org/pdf/2203.11654) [![Paper](https://img.shields.io/badge/ECCV22-1e90ff)]() [![Star](https://img.shields.io/github/stars/waxnkw/IETrans-SGG.pytorch.svg?style=social&label=Star)](https://github.com/waxnkw/IETrans-SGG.pytorch)
+
+
++ [**Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning**](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880055.pdf) [![Paper](https://img.shields.io/badge/ECCV22-1e90ff)]() [![Star](https://img.shields.io/github/stars/waxnkw/IETrans-SGG.pytorch.svg?style=social&label=Star)](https://github.com/waxnkw/IETrans-SGG.pytorch)
 
 + [**Iterative Scene Graph Generation**](https://proceedings.neurips.cc/paper_files/paper/2022/file/99831104028c3b7e6079fd8bdcc42c8f-Paper-Conference.pdf) [![Paper](https://img.shields.io/badge/NIPS22-CD5C5C2)]() [![Star](https://img.shields.io/github/stars/ubc-vision/IterativeSG.svg?style=social&label=Star)](https://github.com/ubc-vision/IterativeSG)
 
@@ -232,8 +239,7 @@ There are three subtasks:
 
 + [**Scene Graph Generation From Objects, Phrases and Region Captions**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Scene_Graph_Generation_ICCV_2017_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV17-2f4f4f)]() [![Star](https://img.shields.io/github/stars/yikang-li/MSDN.svg?style=social&label=Star)](https://github.com/yikang-li/MSDN)
 
-+ [**Visual Relationship Detection with Language Priors**](https://arxiv.org/pdf/1608.00187) [![Paper](https://img.shields.io/badge/ECCV16-1e90ff)]() [![Star](https://img.shields.io/github/stars/Prof-Lu-Cewu/Visual-Relationship-Detection.svg?style=social&label=Star)](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection)
-
++ [**Visual Relationship Detection with Language Priors**](https://arxiv.org/pdf/1608.00187) [![Paper](https://img.shields.io/badge/AAAI20-191970)]() 
 
 
 ## Panoptic Scene Graph Generation
@@ -265,7 +271,7 @@ Compared with traditional scene graph, each object is grounded by `a panoptic se
 + [**Segmentation-grounded Scene Graph Generation**](https://openaccess.thecvf.com/content/ICCV2021/papers/Khandelwal_Segmentation-Grounded_Scene_Graph_Generation_ICCV_2021_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV21-00CED1)]() [![Star](https://img.shields.io/github/stars/ubc-vision/segmentation-sg.svg?style=social&label=Star)](https://github.com/ubc-vision/segmentation-sg) 
 
 
-
++ [**Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation**](https://ojs.aaai.org/index.php/AAAI/article/view/6783) [![Paper](https://img.shields.io/badge/ICCV21-00CED1)]() [![Star](https://img.shields.io/github/stars/ubc-vision/segmentation-sg.svg?style=social&label=Star)](https://github.com/ubc-vision/segmentation-sg) 
 
 ## Spatio-Temporal (Video) Scene Graph Generation
 
