@@ -329,6 +329,7 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 ### Non-LLM-based
 
 
++ [**Towards Scene Graph Anticipation**](https://arxiv.org/pdf/2403.04899v1) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]() [![Star](https://img.shields.io/github/stars/rohithpeddi/SceneSayer.svg?style=social&label=Star)](https://github.com/rohithpeddi/SceneSayer)
 
 
 + [**End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting**](https://arxiv.org/pdf/2409.12499) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
@@ -620,6 +621,14 @@ dataset Visual Genome (VG), from which semantic triplets follow real-world distr
 
 
 ## Dynamic Environment Guidance
+
+
++ [**Open Vocabulary 3D Scene Understanding via Geometry Guided Self-Distillation**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02396.pdf) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]() [![Star](https://img.shields.io/github/stars/Wang-pengfei/GGSD.svg?style=social&label=Star)](https://github.com/Wang-pengfei/GGSD)
+
+
++ [**Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models**](https://arxiv.org/pdf/2207.11514) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/real-stanford/semantic-abstraction.svg?style=social&label=Star)](https://github.com/real-stanford/semantic-abstraction) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](real-stanford/semantic-abstraction)
+
++ [**Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation**](https://arxiv.org/pdf/2403.17846) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/hovsg/HOV-SG.svg?style=social&label=Star)](https://github.com/hovsg/HOV-SG) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hovsg.github.io/)
 
 
 + [**Open Scene Graphs for Open World Object-Goal Navigation**](https://arxiv.org/pdf/2407.02473) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://open-scene-graphs.github.io/)
