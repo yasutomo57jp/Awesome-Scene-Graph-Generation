@@ -142,9 +142,6 @@ There are three subtasks:
 
 + [**Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection**](https://arxiv.org/pdf/2403.14270)  [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() 
 
-+ [**Scene Graph Generation Strategy with Co-occurrence Knowledge and Learnable Term Frequency**](https://arxiv.org/pdf/2405.12648) [![Paper](https://img.shields.io/badge/ICML24-FF7F50)]()
-
-+ [**Semantic Diversity-aware Prototype-based Learning for Unbiased Scene Graph Generation**](https://arxiv.org/pdf/2407.15396) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]() [![Star](https://img.shields.io/github/stars/JeonJaeHyeong/DPL.svg?style=social&label=Star)](https://github.com/JeonJaeHyeong/DPL)
 
 + [**Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction**](https://arxiv.org/pdf/2407.19259) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/Zhuzi24/SBG.svg?style=social&label=Star)](https://github.com/Zhuzi24/SBG)
 
@@ -153,6 +150,13 @@ There are three subtasks:
 
 + [**Hydra-SGG: Hybrid Relation Assignment for One-stage Scene Graph Generation**](https://arxiv.org/pdf/2409.10262) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() 
 
++ [**Scene Graph Generation Strategy with Co-occurrence Knowledge and Learnable Term Frequency**](https://arxiv.org/pdf/2405.12648) [![Paper](https://img.shields.io/badge/ICML24-FF7F50)]()
+
++ [**Semantic Diversity-aware Prototype-based Learning for Unbiased Scene Graph Generation**](https://arxiv.org/pdf/2407.15396) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]() [![Star](https://img.shields.io/github/stars/JeonJaeHyeong/DPL.svg?style=social&label=Star)](https://github.com/JeonJaeHyeong/DPL)
+
++ [**Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction**](https://arxiv.org/pdf/2407.19259) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]()
+
++ [**Multi-Granularity Sparse Relationship Matrix Prediction Network for End-to-End Scene Graph Generation**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10738.pdf) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]()
 
 + [**Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection**](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Groupwise_Query_Specialization_and_Quality-Aware_Multi-Assignment_for_Transformer-based_Visual_Relationship_CVPR_2024_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR24-8A2BE2)]() [![Star](https://img.shields.io/github/stars/mlvlab/SpeaQ.svg?style=social&label=Star)](https://github.com/mlvlab/SpeaQ) 
 
@@ -403,6 +407,8 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 + [**Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation**](https://arxiv.org/pdf/2409.10350) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://point2graph.github.io/)
 
++ [**Heterogeneous Graph Learning for Scene Graph Prediction in 3D Point Clouds**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03785.pdf) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]()
+
 + [**EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion**](https://arxiv.org/pdf/2405.00915) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]() [![Star](https://img.shields.io/github/stars/ymxlzgy/echoscene.svg?style=social&label=Star)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sites.google.com/view/echoscene)
 
 + [**Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic Assisted Pseudo-labeling**](https://arxiv.org/pdf/2404.02527) [![Paper](https://img.shields.io/badge/arXiv24-b22222)](https://arxiv.org/pdf/2309.15702)  
@@ -466,6 +472,10 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 
 ## Image Retrieval
+
++ [**SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs**](https://arxiv.org/pdf/2404.00469)  [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]()  [![Star](https://img.shields.io/github/stars/y9miao/VLSG.svg?style=social&label=Star)](https://github.com/y9miao/VLSG)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://scenegraphloc.github.io/)<details><summary>SceneGraphLoc addresses the novel problem of localizing a query image in a database of 3D scenes represented as compact multi-modal 3D scene graphs</summary></details>
+ 
+
 
 + [**Composing Object Relations and Attributes for Image-Text Matching**](https://arxiv.org/pdf/2406.11820)  [![Paper](https://img.shields.io/badge/CVPR24-8A2BE2)]()  [![Star](https://img.shields.io/github/stars/vkhoi/cora_cvpr24.svg?style=social&label=Star)](https://github.com/vkhoi/cora_cvpr24)  
  
@@ -593,6 +603,10 @@ textual features from vision-language models to visual conceptual understanding.
 
 
 ## 3D Generation
+
+
++ [**EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion**](https://arxiv.org/pdf/2405.00915) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]() [![Star](https://img.shields.io/github/stars/ymxlzgy/echoscene.svg?style=social&label=Star)](https://github.com/ymxlzgy/echoscene)
+
 
 + [**INSTRUCTLAYOUT: Instruction-Driven 2D and 3D Layout Synthesis with Semantic Graph Prior**](https://arxiv.org/pdf/2407.07580) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
