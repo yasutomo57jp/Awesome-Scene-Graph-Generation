@@ -338,6 +338,9 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 + [**End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting**](https://arxiv.org/pdf/2409.12499) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
++ [**Towards Unbiased and Robust Spatio-Temporal Scene Graph Generation and Anticipation**](https://arxiv.org/pdf/2411.13059) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
+
+
 + [**CYCLO: Cyclic Graph Transformer Approach to Multi-Object Relationship Modeling in Aerial Videos**](https://arxiv.org/pdf/2406.01029) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
 
@@ -510,6 +513,8 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 ## 2D Image Generation
 
++ [**SSGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing**](https://arxiv.org/pdf/2410.11815) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()  [![Star](https://img.shields.io/github/stars/bestzzhang/SGEdit-code.svg?style=social&label=Star)](https://github.com/bestzzhang/SGEdit-code)
+
 + [**SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance**](https://arxiv.org/pdf/2405.15321) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
 + [**Generated Contents Enrichment**](https://arxiv.org/pdf/2405.03650) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
@@ -520,6 +525,8 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 + [**R3CD: Scene Graph to Image Generation with Relation-Aware Compositional Contrastive Control Diffusion**](https://ojs.aaai.org/index.php/AAAI/article/view/28155)  [![Paper](https://img.shields.io/badge/AAAI24-191970)]()
 
+
++ [**Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation**](https://arxiv.org/pdf/2410.00447) [![Paper](https://img.shields.io/badge/NIPS24-CD5C5C)]()
 
 + [**Imagine that! abstract-to-intricate text-to-image synthesis with scene graph hallucination diffusion**](https://proceedings.neurips.cc/paper_files/paper/2023/file/fa64505ebdc94531087bc81251ce2376-Paper-Conference.pdf) [![Paper](https://img.shields.io/badge/NIPS23-CD5C5C)]()
 
@@ -674,6 +681,11 @@ a scene and accommodate them with proper places.</details>
 
 + [**A Review and Efficient Implementation of Scene Graph Generation Metricsl**](https://arxiv.org/pdf/2404.09616) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/lorjul/sgbench.svg?style=social&label=Star)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://lorjul.github.io/sgbench/)
 
+
+
+## Video Generation
+
++ [**VISAGE: Video Synthesis using Action Graphs for Surgery**](https://arxiv.org/pdf/2410.17751) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
 
 ---
