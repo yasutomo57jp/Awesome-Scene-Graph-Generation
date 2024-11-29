@@ -115,6 +115,9 @@ There are three subtasks:
 
 + [**Scene Graph Generation Strategy with Co-occurrence Knowledge and Learnable Term Frequency**](https://arxiv.org/pdf/2405.12648) [![Paper](https://img.shields.io/badge/ICML24-FF7F50)]() 
 
+
++ [**Scene Graph Generation with Role-Playing Large Language Models**](https://arxiv.org/pdf/2410.15364) [![Paper](https://img.shields.io/badge/NIPS24-CD5C5C)]() 
+
 + [**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**](https://arxiv.org/pdf/2406.10100) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/Luo-Z13/SkySenseGPT.svg?style=social&label=Star)](https://github.com/Luo-Z13/SkySenseGPT) 
 
 + [**VLPrompt: Vision-Language Prompting for Panoptic Scene Graph Generation**](https://arxiv.org/pdf/2311.16492) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/franciszzj/VLPrompt.svg?style=social&label=Star)](https://github.com/franciszzj/VLPrompt) 
