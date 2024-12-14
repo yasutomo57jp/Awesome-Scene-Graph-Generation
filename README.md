@@ -154,7 +154,8 @@ There are three subtasks:
 
 + [**Scene Graph Generation Strategy with Co-occurrence Knowledge and Learnable Term Frequency**](https://arxiv.org/pdf/2405.12648) [![Paper](https://img.shields.io/badge/ICML24-FF7F50)]()
 
-+ [**Expanding Scene Graph Boundaries: Fully Open-vocabulary Scene Graph Generation via Visual-Concept Alignment and Retention**](https://arxiv.org/pdf/2311.10988) [![Paper](https://img.shields.io/badge/arXiv23-b22222)]()
++ [**Expanding Scene Graph Boundaries: Fully Open-vocabulary Scene Graph Generation via Visual-Concept Alignment and Retention**](https://arxiv.org/pdf/2311.10988) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]() [![Star](https://img.shields.io/github/stars/gpt4vision/OvSGTR.svg?style=social&label=Star)](https://github.com/gpt4vision/OvSGTR/)
+
 
 + [**Semantic Diversity-aware Prototype-based Learning for Unbiased Scene Graph Generation**](https://arxiv.org/pdf/2407.15396) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]() [![Star](https://img.shields.io/github/stars/JeonJaeHyeong/DPL.svg?style=social&label=Star)](https://github.com/JeonJaeHyeong/DPL)
 
