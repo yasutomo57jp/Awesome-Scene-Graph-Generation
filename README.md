@@ -539,6 +539,9 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 + [**SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis**](https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Farshad_SceneGenie_Scene_Graph_Guided_Diffusion_Models_for_Image_Synthesis_ICCVW_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCVW23-2f4f4f)]()
 
 
++ [**Scene Graph to Image Synthesis via Knowledge Consensus**](https://ojs.aaai.org/index.php/AAAI/article/view/25387) [![Paper](https://img.shields.io/badge/AAAI23-2f4f4f)]()
+
+
 + [**Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Trainin**](https://arxiv.org/pdf/2211.11138)  [![Paper](https://img.shields.io/badge/arXiv22-b22222)]()  [![Star](https://img.shields.io/github/stars/YangLing0818/SGDiff.svg?style=social&label=Star)](https://github.com/YangLing0818/SGDiff)
 
 + [**OSCAR-Net: Object-centric Scene Graph Attention for Image Attribution**](https://openaccess.thecvf.com/content/ICCV2021/papers/Nguyen_OSCAR-Net_Object-Centric_Scene_Graph_Attention_for_Image_Attribution_ICCV_2021_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV21-2f4f4f)]() [![Star](https://img.shields.io/github/stars/exnx/oscar.svg?style=social&label=Star)](https://github.com/exnx/oscar) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://exnx.github.io/oscar/)
@@ -649,10 +652,12 @@ dataset Visual Genome (VG), from which semantic triplets follow real-world distr
 ## Dynamic Environment Guidance
 
 
++ [**SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation**](https://arxiv.org/abs/2410.08189) [![Paper](https://img.shields.io/badge/NIPS24-CD5C5C)]() [![Star](https://img.shields.io/github/stars/bagh2178/SG-Nav.svg?style=social&label=Star)](https://github.com/bagh2178/SG-Nav) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)]([real-stanford/semantic-abstraction](https://bagh2178.github.io/SG-Nav/))
+
 + [**Open Vocabulary 3D Scene Understanding via Geometry Guided Self-Distillation**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02396.pdf) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]() [![Star](https://img.shields.io/github/stars/Wang-pengfei/GGSD.svg?style=social&label=Star)](https://github.com/Wang-pengfei/GGSD)
 
 
-+ [**Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models**](https://arxiv.org/pdf/2207.11514) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/real-stanford/semantic-abstraction.svg?style=social&label=Star)](https://github.com/real-stanford/semantic-abstraction) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](real-stanford/semantic-abstraction)
++ [**Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models**](https://arxiv.org/pdf/2207.11514) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/real-stanford/semantic-abstraction.svg?style=social&label=Star)](https://github.com/real-stanford/semantic-abstraction) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://semantic-abstraction.cs.columbia.edu/)
 
 + [**Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation**](https://arxiv.org/pdf/2403.17846) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/hovsg/HOV-SG.svg?style=social&label=Star)](https://github.com/hovsg/HOV-SG) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hovsg.github.io/)
 
