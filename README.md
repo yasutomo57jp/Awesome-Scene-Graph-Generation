@@ -518,6 +518,8 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 ## 2D Image Generation
 
++ [**LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations**](https://arxiv.org/pdf/2412.08580) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()  [![Star](https://img.shields.io/github/stars/mengcye/LAION-SG.svg?style=social&label=Star)](https://github.com/mengcye/LAION-SG)
+
 + [**SSGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing**](https://arxiv.org/pdf/2410.11815) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()  [![Star](https://img.shields.io/github/stars/bestzzhang/SGEdit-code.svg?style=social&label=Star)](https://github.com/bestzzhang/SGEdit-code)
 
 + [**SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance**](https://arxiv.org/pdf/2405.15321) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
