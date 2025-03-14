@@ -371,6 +371,7 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 + [**Towards Unbiased and Robust Spatio-Temporal Scene Graph Generation and Anticipation**](https://arxiv.org/pdf/2411.13059) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
++ [**HyperGLM: HyperGraph for Video Scene Graph Generation and Anticipation**](https://arxiv.org/pdf/2411.18042) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
 + [**CYCLO: Cyclic Graph Transformer Approach to Multi-Object Relationship Modeling in Aerial Videos**](https://arxiv.org/pdf/2406.01029) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
@@ -528,9 +529,11 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 ## Image Caption 
 
++ [**Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning**](https://arxiv.org/pdf/2412.08614) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/LuFan31/CompreCap.svg?style=social&label=Star)](https://github.com/LuFan31/CompreCap)
+
 + [**Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions**](https://arxiv.org/pdf/2407.06723) [![Paper](https://img.shields.io/badge/arXiv24-b22222)](https://arxiv.org/pdf/2407.06723) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://huggingface.co/graph-based-captions)<details><summary>Introducing new dataset GBC10M</summary>Humans describe complex scenes with compositionality, using simple text descriptions enriched with links and relationships. While vision-language research has aimed to develop models with compositional understanding capabilities, this is not reflected yet in existing datasets which, for the most part, still use plain text to describe images. In this work, we propose a new annotation strategy, graph-based captioning (GBC) that describes an image using a labelled graph structure, with nodes of various types. We demonstrate that GBC can be produced automatically, using off-the-shelf multimodal LLMs and open-vocabulary detection models, by building a new dataset, GBC10M, gathering GBC annotations for about 10M images of the CC12M dataset</details>
 
-+ [**Transforming Visual Scene Graphs to Image Captions**](https://aclanthology.org/2023.acl-long.694.pdf) [![Paper](https://img.shields.io/badge/ACL23-191970)]() [![Star](https://img.shields.io/github/stars/chancharikmitra/CCoT.svg?style=social&label=Star)](https://anonymous.4open.science/r/ACL23_TFSGC.git)
++ [**Transforming Visual Scene Graphs to Image Captions**](https://aclanthology.org/2023.acl-long.694.pdf) [![Paper](https://img.shields.io/badge/ACL23-191970)]() [![Star](https://img.shields.io/github/stars/GaryJiajia/TSG.svg?style=social&label=Star)](https://github.com/GaryJiajia/TSG)
 
 + [**Cross2StrA: Unpaired Cross-lingual Image Captioning with Cross-lingual Cross-modal Structure-pivoted Alignment**](https://arxiv.org/pdf/2305.12260)  [![Paper](https://img.shields.io/badge/ACL23-191970)]()
 
@@ -549,7 +552,9 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 ## 2D Image Generation
 
-+ [**SurGrID: Controllable Surgical Simulation via Scene Graph to I mage Diffusion**](https://arxiv.org/pdf/2502.07945) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**SurGrID: Controllable Surgical Simulation via Scene Graph to I mage Diffusion**](https://arxiv.org/pdf/2502.07945) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
+
++ [**Generate Any Scene: Evaluating and Improving Text-to-Vision Generation with Scene Graph Programming**](https://arxiv.org/pdf/2412.08221) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/RAIVNLab/GenerateAnyScene.svg?style=social&label=Star)](https://github.com/RAIVNLab/GenerateAnyScene) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://generate-any-scene.github.io/)
 
 + [**LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations**](https://arxiv.org/pdf/2412.08580) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()  [![Star](https://img.shields.io/github/stars/mengcye/LAION-SG.svg?style=social&label=Star)](https://github.com/mengcye/LAION-SG)
 
