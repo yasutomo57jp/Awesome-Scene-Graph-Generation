@@ -318,6 +318,15 @@ Compared with traditional scene graph, each object is grounded by `a panoptic se
 
 + [**Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation**](https://ojs.aaai.org/index.php/AAAI/article/view/6783) [![Paper](https://img.shields.io/badge/ICCV21-00CED1)]() [![Star](https://img.shields.io/github/stars/ubc-vision/segmentation-sg.svg?style=social&label=Star)](https://github.com/ubc-vision/segmentation-sg) 
 
+
+
+
+
+
+
+
+
+
 ## Spatio-Temporal (Video) Scene Graph Generation
 
 Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph generation, aims to provide a detailed and structured interpretation of the whole scene by parsing an event into a sequence of interactions between different visual entities. It ususally involves two subtasks:
@@ -328,6 +337,8 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 
 ### LLM-based 
+
++ [**Weakly Supervised Video Scene Graph Generation via Natural Language Supervision**](https://arxiv.org/pdf/2502.15370) [![Paper](https://img.shields.io/badge/ICLR25-696969)]()   [![Star](https://img.shields.io/github/stars/rlqja1107/NL-VSGG.svg?style=social&label=Star)](https://github.com/rlqja1107/NL-VSGG)
 
 + [**Tri-modal Confluence with Temporal Dynamics for Scene Graph Generation in Operating Rooms**](https://arxiv.org/pdf/2404.09231) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
