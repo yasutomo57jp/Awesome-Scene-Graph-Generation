@@ -79,6 +79,7 @@ In this graph, the nodes correspond to object bounding boxes with their category
 | [3D Semantic Scene Graphs (3DSSG)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wald_Learning_3D_Semantic_Scene_Graphs_From_3D_Indoor_Reconstructions_CVPR_2020_paper.pdf) | 3D | 528 | - | 39 | - | 48K|
 | [PSG4D](https://arxiv.org/pdf/2405.10305) | 4D | 46 | - | 15 | - | - | - |
 | [4D-OR](https://github.com/egeozsoy/4D-OR) | 4D(operating room) | 12 | - | 14 | - | - |
+| [MM-OR](https://github.com/egeozsoy/MM-OR) | 4D(operating room) | - | - | - | - | - |
 | [FACTUAL](https://github.com/zhuang-li/FactualSceneGraph) |  Image, Text  | 4,042 | - | 1607 | 40,149 | 40,369 |
 </p>
 
@@ -410,7 +411,7 @@ Given a 3D point cloud $P \in R^{N×3}$ consisting of $N$ points, we assume ther
 Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 
-+ [**GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding**](https://arxiv.org/pdf/2503.04034) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/WangXihan-bit/GaussianGraph.svg?style=social&label=Star)](https://github.com/WangXihan-bit/GaussianGraph)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wangxihan-bit.github.io/GaussianGraph/)
++ [**GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding**](https://arxiv.org/pdf/2503.04034) [![Paper](https://img.shields.io/badge/IROS2025-b22222)]() [![Star](https://img.shields.io/github/stars/WangXihan-bit/GaussianGraph.svg?style=social&label=Star)](https://github.com/WangXihan-bit/GaussianGraph)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wangxihan-bit.github.io/GaussianGraph/)
 
 + [**ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**](https://arxiv.org/pdf/2309.16650) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/concept-graphs/concept-graphs.svg?style=social&label=Star)](https://github.com/concept-graphs/concept-graphs)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://concept-graphs.github.io/)
 
@@ -452,6 +453,8 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 ## 4D Scene Graph Gnereation
  
+ + [**MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments**](https://arxiv.org/pdf/2503.02579)  [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() [![Star](https://img.shields.io/github/stars/egeozsoy/MM-OR.svg?style=social&label=Star)](https://github.com/egeozsoy/MM-OR)
+
 + [**4D Panoptic Scene Graph Generation**](https://arxiv.org/pdf/2405.10305) [![Paper](https://img.shields.io/badge/NIPS23-CD5C5C2)]()  [![Star](https://img.shields.io/github/stars/Jingkang50/PSG4D.svg?style=social&label=Star)](https://github.com/Jingkang50/PSG4D)
 
 
