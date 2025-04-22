@@ -111,6 +111,10 @@ There are three subtasks:
 
 ### LLM-based 
 
++ [**Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation**](https://arxiv.org/pdf/2503.13947) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
+
++ [**PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks**](https://arxiv.org/pdf/2504.00844) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
+
 + [**LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations**](https://arxiv.org/pdf/2412.06322) [![Paper](https://img.shields.io/badge/WACV24-6a5acd)]()  [![Star](https://img.shields.io/github/stars/Endlinc/LLaVA-SpaceSGG.svg?style=social&label=Star)](https://github.com/Endlinc/LLaVA-SpaceSGG) 
 
 + [**Tri-modal Confluence with Temporal Dynamics for Scene Graph Generation in Operating Rooms**](https://arxiv.org/pdf/2404.09231) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() 
@@ -145,13 +149,17 @@ There are three subtasks:
 
 ### Non-LLM-based
 
+
++ [**Taking A Closer Look at Interacting Objects: Interaction-Aware Open Vocabulary Scene Graph Generation**](https://arxiv.org/pdf/2502.03856)  [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
+
 + [**Relation-aware Hierarchical Prompt for Open-vocabulary Scene Graph Generation**](https://arxiv.org/pdf/2412.19021) [![Paper](https://img.shields.io/badge/AAAI25-c71585)]()
 
 + [**RA-SGG: Retrieval-Augmented Scene Graph Generation Framework via Multi-Prototype Learning**](https://arxiv.org/pdf/2412.12788)  [![Paper](https://img.shields.io/badge/AAAI25-c71585)]() [![Star](https://img.shields.io/github/stars/KanghoonYoon/torch-rasgg.svg?style=social&label=Star)](https://github.com/KanghoonYoon/torch-rasgg)
 
 + [**Taking A Closer Look at Interacting Objects: Interaction-Aware Open Vocabulary Scene Graph Generation**](https://arxiv.org/pdf/2502.03856)  [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
-+ [**UniQ: Unified Decoder with Task-specific Queries for Efficient Scene Graph Generation**](https://arxiv.org/pdf/2501.05687)  [![Paper](https://img.shields.io/badge/MM25-8b4513)]()
++ [**UniQ: Unified Decoder with Task-specific Queries for Efficient Scene Graph Generation**](https://arxiv.org/pdf/2501.05687)  [![Paper](https://img.shields.io/badge/MM24-8b4513)]()
 
 
 + [**Multiview Scene Graph**](https://arxiv.org/pdf/2410.11187v1)  [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/ai4ce/MSG.svg?style=social&label=Star)](https://github.com/ai4ce/MSG) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ai4ce.github.io/MSG/)
@@ -165,6 +173,8 @@ There are three subtasks:
 + [**BCTR: Bidirectional Conditioning Transformer for Scene Graph Generation**](https://arxiv.org/pdf/2407.18715)  [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() 
 
 + [**Hydra-SGG: Hybrid Relation Assignment for One-stage Scene Graph Generation**](https://arxiv.org/pdf/2409.10262) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() 
+
++ [**Adaptive Self-training Framework for Fine-grained Scene Graph Generation**](https://arxiv.org/pdf/2401.09786) [![Paper](https://img.shields.io/badge/ICLR24-696969)]() [![Star](https://img.shields.io/github/stars/rlqja1107/torch-ST-SGG.svg?style=social&label=Star)](https://github.com/rlqja1107/torch-ST-SGG)
 
 + [**Scene Graph Generation Strategy with Co-occurrence Knowledge and Learnable Term Frequency**](https://arxiv.org/pdf/2405.12648) [![Paper](https://img.shields.io/badge/ICML24-FF7F50)]()
 
@@ -188,6 +198,8 @@ There are three subtasks:
 
 
 + [**EGTR: Extracting Graph from Transformer for Scene Graph Generation**](https://arxiv.org/pdf/2404.02072) [![Paper](https://img.shields.io/badge/CVPR24-8A2BE2)]() [![Star](https://img.shields.io/github/stars/naver-ai/egtr.svg?style=social&label=Star)](https://github.com/naver-ai/egtr) 
+
++ [**Generalized Visual Relation Detection with Diffusion Models**](https://arxiv.org/pdf/2504.12100) [![Paper](https://img.shields.io/badge/TCSVT24-6A8428)]()
 
 + [**STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery**](https://arxiv.org/pdf/2406.09410) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/Zhuzi24/SGG-ToolKit.svg?style=social&label=Star)](https://github.com/Zhuzi24/SGG-ToolKit) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://linlin-dev.github.io/project/STAR)
 
@@ -351,6 +363,10 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 ### LLM-based 
 
+
++ [**What can Off-the-Shelves Large Multi-Modal Models do for Dynamic Scene Graph Generation?**](https://arxiv.org/pdf/2503.15846) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
+
+
 + [**Weakly Supervised Video Scene Graph Generation via Natural Language Supervision**](https://arxiv.org/pdf/2502.15370) [![Paper](https://img.shields.io/badge/ICLR25-696969)]()   [![Star](https://img.shields.io/github/stars/rlqja1107/NL-VSGG.svg?style=social&label=Star)](https://github.com/rlqja1107/NL-VSGG)
 
 + [**Tri-modal Confluence with Temporal Dynamics for Scene Graph Generation in Operating Rooms**](https://arxiv.org/pdf/2404.09231) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
@@ -362,6 +378,12 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 ### Non-LLM-based
 
++ [**DIFFVSGG: Diffusion-Driven Online Video Scene Graph Generation**](https://arxiv.org/pdf/2503.13957v1) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Star](https://img.shields.io/github/stars/kagawa588/DiffVsgg.svg?style=social&label=Star)](https://github.com/kagawa588/DiffVsgg)
+
++ [**Salient Temporal Encoding for Dynamic Scene Graph Generation**](https://arxiv.org/pdf/2503.14524) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  
+
++ [**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**](https://arxiv.org/pdf/2504.07867) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
+ 
 + [**Motion-aware Contrastive Learning for Temporal Panoptic Scene Graph Generation**](https://arxiv.org/pdf/2412.07160) [![Paper](https://img.shields.io/badge/AAAI25-c71585)]()
 
 + [**Towards Scene Graph Anticipation**](https://arxiv.org/pdf/2403.04899v1) [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]() [![Star](https://img.shields.io/github/stars/rohithpeddi/SceneSayer.svg?style=social&label=Star)](https://github.com/rohithpeddi/SceneSayer)
@@ -482,7 +504,7 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 
 ## 4D Scene Graph Gnereation
- 
+ + [**Learning 4D Panoptic Scene Graph Generation from Rich 2D Visual Scene**](https://arxiv.org/abs/2503.15019) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()
  + [**MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments**](https://arxiv.org/pdf/2503.02579)  [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() [![Star](https://img.shields.io/github/stars/egeozsoy/MM-OR.svg?style=social&label=Star)](https://github.com/egeozsoy/MM-OR)
 
 + [**4D Panoptic Scene Graph Generation**](https://arxiv.org/pdf/2405.10305) [![Paper](https://img.shields.io/badge/NIPS23-CD5C5C2)]()  [![Star](https://img.shields.io/github/stars/Jingkang50/PSG4D.svg?style=social&label=Star)](https://github.com/Jingkang50/PSG4D)
@@ -503,6 +525,19 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 + [**Scene Graph Parsing as Dependency Parsing**](https://www.cs.jhu.edu/~cxliu/papers/sgparser_naacl18.pdf) [![Paper](https://img.shields.io/badge/NAACL18-191970)]() [![Star](https://img.shields.io/github/stars/Yusics/bist-parser.svg?style=social&label=Star)](https://github.com/Yusics/bist-parser/tree/sgparser) 
 
 + [**Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval**](https://nlp.stanford.edu/pubs/schuster-krishna-chang-feifei-manning-vl15.pdf) [![Paper](https://img.shields.io/badge/VL15-191970)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://nlp.stanford.edu/software/scenegraph-parser.shtml)
+
+
+## Map Space Scene Graph
++ [**Can Large Vision Language Models Read Maps like a Human?**](https://arxiv.org/pdf/2503.14607) ![Paper](https://img.shields.io/badge/arXiv25-b22222)  [![Star](https://img.shields.io/github/stars/taco-group/MapBench.svg?style=social&label=Star)](https://github.com/taco-group/MapBench) 
+    <details><summary>Map space scene graph (MSSG) as a indexing data structure for the human readable map.</summary>In this paper, we introduce MapBench—the first dataset specifically designed for human-readable, pixel-based map-based outdoor navigation, curated from complex path finding scenarios. MapBench comprises over 1600 pixel space map path finding problems from 100 diverse maps. In MapBench, LVLMs generate language-based navigation instructions given a map image and a query with beginning and end landmarks. For each map, MapBench provides Map Space Scene Graph (MSSG) as an indexing data structure to convert between natural language and evaluate VLMgenerated results. We demonstrate that MapBench significantly challenges state-of-the-art LVLMs both zero-shot prompting and a Chain-of-Thought (CoT) augmented reasoning framework that decomposes map navigation into sequential cognitive processes.</details>
+
+
+## Universal Scene Graph Generation
+
++ [**Universal Scene Graph Generation**](https://arxiv.org/abs/2503.15005) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sqwu.top/USG/) 
+  <details><summary>A novel representation capable of fully characterizing comprehensive semantic scenes from any given combination of modality inputs. </summary>Scene graph (SG) representations can neatly and efficiently describe scene semantics, which has driven sustained intensive research in SG generation. In the real world, multiple modalities often coexist, with different types, such as images, text, video, and 3D data, expressing distinct characteristics. Unfortunately, current SG research is largely confined to single-modality scene modeling, preventing the full utilization of the complementary strengths of different modality SG representations in depicting holistic scene semantics. To this end, we introduce `Universal SG (USG)`, a novel representation capable of fully characterizing comprehensive semantic scenes from any given combination of modality inputs, encompassing modality-invariant and modality-specific scenes, as shown in Fig. 1. Further, we tailor a niche-targeting USG parser, USG-Par, which effectively addresses two key bottlenecks of cross-modal object alignment and out-of-domain challenges. We design the USG-Par with modular architecture for end-to-end USG generation, in which we devise an object associator to relieve the modality gap for cross-modal object alignment. Further, we propose a text-centric scene contrasting learning mechanism to mitigate domain imbalances by aligning multimodal objects and relations with textual SGs.</details>
+
+
 ---
 
 
@@ -529,7 +564,11 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 
 
-## Image Caption 
+## Image/Video Caption 
+
++ [**Fine-Grained Video Captioning through Scene Graph Consolidation**](https://arxiv.org/pdf/2502.16427) ![Paper](https://img.shields.io/badge/arXiv25-b22222)
+
++ [**The Devil is in the Distributions: Explicit Modeling of Scene Content is Key in Zero-Shot Video Captioning**](https://arxiv.org/pdf/2503.23679) ![Paper](https://img.shields.io/badge/arXiv25-b22222)
 
 + [**Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning**](https://arxiv.org/pdf/2412.08614) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/LuFan31/CompreCap.svg?style=social&label=Star)](https://github.com/LuFan31/CompreCap)
 
@@ -553,6 +592,10 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 
 ## 2D Image Generation
+
++ [**SurGrID: Controllable Surgical Simulation via Scene Graph to I mage Diffusion**](https://arxiv.org/pdf/2502.07945) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
+
++ [**Neuro-Symbolic Scene Graph Conditioning for Synthetic Image Dataset Generation**](https://arxiv.org/pdf/2503.17224) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
 
 + [**SurGrID: Controllable Surgical Simulation via Scene Graph to I mage Diffusion**](https://arxiv.org/pdf/2502.07945) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
 
@@ -597,12 +640,26 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 + [**Image Generation from Scene Graphs**](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0764.pdf) [![Paper](https://img.shields.io/badge/CVPR18-8A2BE2)]() [![Star](https://img.shields.io/github/stars/google/sg2im.svg?style=social&label=Star)](https://github.com/google/sg2im)
 
 
+## 3D Scene Generation
+
++ [**PhiP-G: Physics-Guided Text-to-3D Compositional Scene Generation**](https://arxiv.org/pdf/2502.00708) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
++ [**Controllable 3D Outdoor Scene Generation via Scene Graphs**](https://arxiv.org/pdf/2503.07152) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yuheng.ink/project-page/control-3d-scene/) [![Star](https://img.shields.io/github/stars/yuhengliu02/control-3d-scene.svg?style=social&label=Star)](https://github.com/yuhengliu02/control-3d-scene) 
 
 
 
 ## Visual Reasoning
 
-+ [**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**](https://arxiv.org/pdf/2502.03450) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
+
++ [**GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding**](https://arxiv.org/pdf/2503.04034)  [![Paper](https://img.shields.io/badge/IROS25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wangxihan-bit.github.io/GaussianGraph/)
+
++ [**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**](https://arxiv.org/pdf/2502.03450) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
+
++ [**Generative Visual Commonsense Answering and Explaining with Generative Scene Graph Constructing**](https://arxiv.org/pdf/2501.09041) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
+
+
++ [**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**](https://arxiv.org/pdf/2502.03450) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
 
 + [**Generative Visual Commonsense Answering and Explaining with Generative Scene Graph Constructing**](https://arxiv.org/pdf/2501.09041) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
@@ -610,7 +667,7 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 + [**STEP: Enhancing Video-LLMs’ Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training**](https://arxiv.org/pdf/2412.00161) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
-+ [**SpatialRGPT: Grounded Spatial Reasoning in Vision-Language Models**](https://arxiv.org/pdf/2406.01584) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.anjiecheng.me/SpatialRGPT) [![Star](https://img.shields.io/github/stars/AnjieCheng/SpatialRGPT.svg?style=social&label=Star)](https://github.com/AnjieCheng/SpatialRGPT) 
++ [**SpatialRGPT: Grounded Spatial Reasoning in Vision-Language Models**](https://arxiv.org/pdf/2406.01584) [![Paper](https://img.shields.io/badge/NIPS24-CD5C5C)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.anjiecheng.me/SpatialRGPT) [![Star](https://img.shields.io/github/stars/AnjieCheng/SpatialRGPT.svg?style=social&label=Star)](https://github.com/AnjieCheng/SpatialRGPT) 
 
 + [**SceneGPT: A Language Model for 3D Scene Understanding**](https://arxiv.org/pdf/2408.06926) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
@@ -718,6 +775,12 @@ dataset Visual Genome (VG), from which semantic triplets follow real-world distr
 
 ## Dynamic Environment Guidance
 
+
++ [**Visual Environment-Interactive Planning for Embodied Complex-Question Answering**](https://arxiv.org/pdf/2504.00775) [![Paper](https://img.shields.io/badge/TCSVT25-6A8428)]()
+
++ [**FunGraph: Functionality Aware 3D Scene Graphs for Language-Prompted Scene Interaction**](https://arxiv.org/pdf/2503.07909) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
++ [**Domain-Conditioned Scene Graphs for State-Grounded Task Planning**](https://arxiv.org/pdf/2504.06661) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
 + [**SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation**](https://arxiv.org/abs/2410.08189) [![Paper](https://img.shields.io/badge/NIPS24-CD5C5C)]() [![Star](https://img.shields.io/github/stars/bagh2178/SG-Nav.svg?style=social&label=Star)](https://github.com/bagh2178/SG-Nav) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)]([real-stanford/semantic-abstraction](https://bagh2178.github.io/SG-Nav/))
 
