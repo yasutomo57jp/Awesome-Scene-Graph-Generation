@@ -24,14 +24,16 @@ In this graph, the nodes correspond to object bounding boxes with their category
   - [3D Scene Graph Generation](#3d-scene-graph-generation)
   - [4D Scene Graph Gnereation](#4d-scene-graph-gnereation)
   - [Textual Scene Graph Generation](#textual-scene-graph-generation)
+  - [Map Space Scene Graph](#map-space-scene-graph)
+  - [Universal Scene Graph Generation](#universal-scene-graph-generation)
 - [🥝 Scene Graph Application](#-scene-graph-application)
   - [Image Retrieval](#image-retrieval)
-  - [Image Caption](#image-caption)
+  - [Image/Video Caption](#imagevideo-caption)
   - [2D Image Generation](#2d-image-generation)
   - [Visual Reasoning](#visual-reasoning)
   - [VLM/MLLM Enhancing](#enhanced-vlmmllm)
   - [Information Extraction](#information-extraction)
-  - [3D Generation](#3d-generation)
+  - [3D Scene Generation](#3d-scene-generation)
   - [Mitigate Hallucination](#mitigate-hallucination)
   - [Dynamic Environment Guidance](#dynamic-environment-guidance)
   - [Privacy-sensitive Object Identification](#privacy-sensitive-object-identification)
@@ -640,13 +642,6 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 + [**Image Generation from Scene Graphs**](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0764.pdf) [![Paper](https://img.shields.io/badge/CVPR18-8A2BE2)]() [![Star](https://img.shields.io/github/stars/google/sg2im.svg?style=social&label=Star)](https://github.com/google/sg2im)
 
 
-## 3D Scene Generation
-
-+ [**PhiP-G: Physics-Guided Text-to-3D Compositional Scene Generation**](https://arxiv.org/pdf/2502.00708) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
-
-+ [**Controllable 3D Outdoor Scene Generation via Scene Graphs**](https://arxiv.org/pdf/2503.07152) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yuheng.ink/project-page/control-3d-scene/) [![Star](https://img.shields.io/github/stars/yuhengliu02/control-3d-scene.svg?style=social&label=Star)](https://github.com/yuhengliu02/control-3d-scene) 
-
-
 
 ## Visual Reasoning
 
@@ -728,7 +723,10 @@ textual features from vision-language models to visual conceptual understanding.
 
 
 
-## 3D Generation
+## 3D Scene Generation
+
++ [**Controllable 3D Outdoor Scene Generation via Scene Graphs**](https://arxiv.org/pdf/2503.07152) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yuheng.ink/project-page/control-3d-scene/) [![Star](https://img.shields.io/github/stars/yuhengliu02/control-3d-scene.svg?style=social&label=Star)](https://github.com/yuhengliu02/control-3d-scene) 
+
 
 + [**MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation**](https://arxiv.org/pdf/2502.05874) [![Paper](https://img.shields.io/badge/AAAI25-191970)]() [![Star](https://img.shields.io/github/stars/yangzhifeio/MMGDreamer.svg?style=social&label=Star)](https://github.com/yangzhifeio/MMGDreamer) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yangzhifeio.github.io/project/MMGDreamer/)
 
