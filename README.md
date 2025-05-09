@@ -113,7 +113,9 @@ There are three subtasks:
 
 ### LLM-based 
 
-+ [**Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation**](https://arxiv.org/pdf/2503.13947) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
++ [**PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks**](https://arxiv.org/pdf/2504.00844) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
+
++ [**Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation**](https://arxiv.org/pdf/2503.13947) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() 
 
 + [**PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks**](https://arxiv.org/pdf/2504.00844) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
 
@@ -151,6 +153,13 @@ There are three subtasks:
 
 ### Non-LLM-based
 
++ [**Compile Scene Graphs with Reinforcement Learning**](https://arxiv.org/pdf/2504.13617) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Star](https://img.shields.io/github/stars/gpt4vision/R1-SGG.svg?style=social&label=Star)](https://github.com/gpt4vision/R1-SGG) 
+  <details><summary>R1-based model</summary> R1-SGG, a novel framework leveraging visual instruction tuning enhanced by reinforcement learning (RL). The visual instruction tuning stage follows a conventional supervised fine-tuning (SFT) paradigm, i.e., finetuning the model using prompt-response pairs with a cross-entropy loss. For the RL stage, we adopt GRPO, an online policy optimization algorithm, in which an node-level reward and edge-level reward are designed.</details>
+
+
++ [**Generalized Visual Relation Detection with Diffusion Models**](https://arxiv.org/pdf/2504.12100) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
++ [**Robo-SGG: Exploiting Layout-Oriented Normalization and Restitution for Robust Scene Graph Generation**](https://arxiv.org/pdf/2504.12606) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
 + [**Taking A Closer Look at Interacting Objects: Interaction-Aware Open Vocabulary Scene Graph Generation**](https://arxiv.org/pdf/2502.03856)  [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
@@ -314,9 +323,19 @@ There are three subtasks:
 
 + [**Visual Relationship Detection with Language Priors**](https://arxiv.org/pdf/1608.00187) [![Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Scene_Graph_Generation_CVPR_2017_paper.pdf)]()   [![Paper](https://img.shields.io/badge/CVPR17-8A2BE2)]()
 
+
+
+
+
+
+
 ## Panoptic Scene Graph Generation
 
 Compared with traditional scene graph, each object is grounded by `a panoptic segmentation mask` in PSG, achieving a compresensive structured scene representation.
+
++ [**Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension**](https://arxiv.org/pdf/2504.14642) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Star](https://img.shields.io/github/stars/HKUST-LongGroup/Relation-R1.svg?style=social&label=Star)](https://github.com/HKUST-LongGroup/Relation-R1)
+  <details><summary>R1-enhanced Visual Relation Reasoning</summary>This work introduces a R1-based Unified framework for joint binary and N-ary relation reasoning with grounded cues.</details>
+
 
 + [**Pair then Relation: Pair-Net for Panoptic Scene Graph Generation**](https://arxiv.org/pdf/2307.08699) [![Paper](https://img.shields.io/badge/TPAMI-ffa07a)]() [![Star](https://img.shields.io/github/stars/king159/Pair-Net.svg?style=social&label=Star)](https://github.com/king159/Pair-Net)
 
@@ -381,6 +400,8 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 ### Non-LLM-based
 
 + [**DIFFVSGG: Diffusion-Driven Online Video Scene Graph Generation**](https://arxiv.org/pdf/2503.13957v1) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Star](https://img.shields.io/github/stars/kagawa588/DiffVsgg.svg?style=social&label=Star)](https://github.com/kagawa588/DiffVsgg)
+
++ [**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**](https://arxiv.org/pdf/2504.07867) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
 + [**Salient Temporal Encoding for Dynamic Scene Graph Generation**](https://arxiv.org/pdf/2503.14524) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  
 
@@ -461,6 +482,17 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 ## 3D Scene Graph Generation
 Given a 3D point cloud $P \in R^{N×3}$ consisting of $N$ points, we assume there is a set of class-agnostic instance masks $M = \{M_1, ..., M_K\}$ corresponding to $K$ entities in $P$, `3D Scene Graph Generation` aims to map the input 3D point cloud to a reliable semantically structured scene graph $G = \{O, R\}$. 
 Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
+
+
+  + **Blief Scene Graph**
+
+    A utility-enhanced extension of a given incomplete scene graph $G^{'}$, by incorporating objects in $C$ (i.e., the object sets relevant for a robotic mission) into $G^{'}$, using the learnt CECI (i.e., Computation of Expectation of finding objects in $C$ based on Correlation Information) information. Belief Scene Graphs enable highlevel reasoning and optimized task planning involving set $C$, which was impossible with the incomplete $G^{'}$.
+    <details><summary>中文解释</summary>“信念场景图” (Belief Scene Graphs, BSG), 它是对传统3D场景图的扩展，旨在利用局部信息进行高效的高级任务规划。论文的核心在于提出了一种基于图的学习方法，用于计算3D场景图上的“信念”（belief），也称为“期望”（expectation）。这种期望被用来策略性地添加新的节点（称为“盲节点”blind nodes），这些节点与机器人任务相关，但尚未被实际观察到。</details>
+
+    + [**Estimating Commonsense Scene Composition on Belief Scene Graphs**](https://arxiv.org/pdf/2505.02405) [![Paper](https://img.shields.io/badge/ICRA2025-b22222)]()
+
+    + [**Belief Scene Graphs: Expanding Partial Scenes with Object through Computation of Expectation**](https://arxiv.org/pdf/2402.03840) [![Paper](https://img.shields.io/badge/ICRA2024-b22222)]()
+
 
 
 + [**GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding**](https://arxiv.org/pdf/2503.04034) [![Paper](https://img.shields.io/badge/IROS2025-b22222)]() [![Star](https://img.shields.io/github/stars/WangXihan-bit/GaussianGraph.svg?style=social&label=Star)](https://github.com/WangXihan-bit/GaussianGraph)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wangxihan-bit.github.io/GaussianGraph/)
@@ -724,6 +756,8 @@ textual features from vision-language models to visual conceptual understanding.
 
 
 ## 3D Scene Generation
+
++ [**ScanEdit: Hierarchically-Guided Functional 3D Scan Editing**](https://arxiv.org/pdf/2504.15049)  [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://aminebdj.github.io/scanedit/)
 
 + [**Controllable 3D Outdoor Scene Generation via Scene Graphs**](https://arxiv.org/pdf/2503.07152) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yuheng.ink/project-page/control-3d-scene/) [![Star](https://img.shields.io/github/stars/yuhengliu02/control-3d-scene.svg?style=social&label=Star)](https://github.com/yuhengliu02/control-3d-scene) 
 
