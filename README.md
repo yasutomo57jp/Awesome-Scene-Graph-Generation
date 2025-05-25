@@ -587,6 +587,8 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 ## Image Retrieval
 
++ [**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**](https://arxiv.org/pdf/2505.15867) [![Paper](https://img.shields.io/badge/ICML25-FF7F50)]()  [![Star](https://img.shields.io/github/stars/nickhaidos/scenir-icml2025.svg?style=social&label=Star)](https://github.com/nickhaidos/scenir-icml2025) 
+
 + [**SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs**](https://arxiv.org/pdf/2404.00469)  [![Paper](https://img.shields.io/badge/ECCV24-1e90ff)]()  [![Star](https://img.shields.io/github/stars/y9miao/VLSG.svg?style=social&label=Star)](https://github.com/y9miao/VLSG)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://scenegraphloc.github.io/)<details><summary>SceneGraphLoc addresses the novel problem of localizing a query image in a database of 3D scenes represented as compact multi-modal 3D scene graphs</summary></details>
  
 
@@ -680,7 +682,7 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 ## Visual Reasoning
 
-
++ [**Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning**](https://arxiv.org/pdf/2505.09118) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
 + [**GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding**](https://arxiv.org/pdf/2503.04034)  [![Paper](https://img.shields.io/badge/IROS25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wangxihan-bit.github.io/GaussianGraph/)
 
@@ -809,6 +811,7 @@ dataset Visual Genome (VG), from which semantic triplets follow real-world distr
 
 
 ## Dynamic Environment Guidance
++ [**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**](https://arxiv.org/pdf/2505.07815) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)]([real-stanford/semantic-abstraction](https://ive-robot.github.io/))
 
 
 + [**Visual Environment-Interactive Planning for Embodied Complex-Question Answering**](https://arxiv.org/pdf/2504.00775) [![Paper](https://img.shields.io/badge/TCSVT25-6A8428)]()
