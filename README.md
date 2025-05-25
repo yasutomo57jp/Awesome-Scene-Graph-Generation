@@ -113,6 +113,10 @@ There are three subtasks:
 
 ### LLM-based 
 
++ [**Compile Scene Graphs with Reinforcement Learning**](https://arxiv.org/pdf/2504.13617) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Star](https://img.shields.io/github/stars/gpt4vision/R1-SGG.svg?style=social&label=Star)](https://github.com/gpt4vision/R1-SGG) 
+  <details><summary>R1-based model</summary> R1-SGG, a novel framework leveraging visual instruction tuning enhanced by reinforcement learning (RL). The visual instruction tuning stage follows a conventional supervised fine-tuning (SFT) paradigm, i.e., finetuning the model using prompt-response pairs with a cross-entropy loss. For the RL stage, we adopt GRPO, an online policy optimization algorithm, in which an node-level reward and edge-level reward are designed.</details>
+
+
 + [**PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks**](https://arxiv.org/pdf/2504.00844) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
 
 + [**Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation**](https://arxiv.org/pdf/2503.13947) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() 
@@ -153,8 +157,7 @@ There are three subtasks:
 
 ### Non-LLM-based
 
-+ [**Compile Scene Graphs with Reinforcement Learning**](https://arxiv.org/pdf/2504.13617) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Star](https://img.shields.io/github/stars/gpt4vision/R1-SGG.svg?style=social&label=Star)](https://github.com/gpt4vision/R1-SGG) 
-  <details><summary>R1-based model</summary> R1-SGG, a novel framework leveraging visual instruction tuning enhanced by reinforcement learning (RL). The visual instruction tuning stage follows a conventional supervised fine-tuning (SFT) paradigm, i.e., finetuning the model using prompt-response pairs with a cross-entropy loss. For the RL stage, we adopt GRPO, an online policy optimization algorithm, in which an node-level reward and edge-level reward are designed.</details>
+
 
 
 + [**Generalized Visual Relation Detection with Diffusion Models**](https://arxiv.org/pdf/2504.12100) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
