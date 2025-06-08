@@ -82,6 +82,7 @@ In this graph, the nodes correspond to object bounding boxes with their category
 | [PSG4D](https://arxiv.org/pdf/2405.10305) | 4D | 46 | - | 15 | - | - | - |
 | [4D-OR](https://github.com/egeozsoy/4D-OR) | 4D(operating room) | 12 | - | 14 | - | - |
 | [MM-OR](https://github.com/egeozsoy/MM-OR) | 4D(operating room) | - | - | - | - | - |
+| [EgoExOR](https://github.com/egeozsoy/4D-OR) | 4D(operating room) | 36 | - | 22 | 568,235 | - |
 | [FACTUAL](https://github.com/zhuang-li/FactualSceneGraph) |  Image, Text  | 4,042 | - | 1607 | 40,149 | 40,369 |
 | [TSG Bench](https://tsg-bench.netlify.app/) |  Text  | - | - | - | 11,820 | 4,289 |
 </p>
@@ -120,9 +121,11 @@ There are three subtasks:
 
 + [**PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks**](https://arxiv.org/pdf/2504.00844) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
 
+
++ [**From Data to Modeling: Fully Open-vocabulary Scene Graph Generation**](https://arxiv.org/pdf/2505.20106) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()    [![Star](https://img.shields.io/github/stars/gpt4vision/OvSGTR.svg?style=social&label=Star)](https://github.com/gpt4vision/OvSGTR) 
+
 + [**Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation**](https://arxiv.org/pdf/2503.13947) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() 
 
-+ [**PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks**](https://arxiv.org/pdf/2504.00844) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
 
 + [**LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations**](https://arxiv.org/pdf/2412.06322) [![Paper](https://img.shields.io/badge/WACV24-6a5acd)]()  [![Star](https://img.shields.io/github/stars/Endlinc/LLaVA-SpaceSGG.svg?style=social&label=Star)](https://github.com/Endlinc/LLaVA-SpaceSGG) 
 
@@ -542,7 +545,11 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 
 ## 4D Scene Graph Gnereation
+
++ [**EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding**](https://arxiv.org/pdf/2505.24287)  ![Paper](https://img.shields.io/badge/arXiv25-b22222)  [![Star](https://img.shields.io/github/stars/ardamamur/EgoExOR.svg?style=social&label=Star)](https://github.com/ardamamur/EgoExOR) 
+
  + [**Learning 4D Panoptic Scene Graph Generation from Rich 2D Visual Scene**](https://arxiv.org/abs/2503.15019) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()
+
  + [**MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments**](https://arxiv.org/pdf/2503.02579)  [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() [![Star](https://img.shields.io/github/stars/egeozsoy/MM-OR.svg?style=social&label=Star)](https://github.com/egeozsoy/MM-OR)
 
 + [**4D Panoptic Scene Graph Generation**](https://arxiv.org/pdf/2405.10305) [![Paper](https://img.shields.io/badge/NIPS23-CD5C5C2)]()  [![Star](https://img.shields.io/github/stars/Jingkang50/PSG4D.svg?style=social&label=Star)](https://github.com/Jingkang50/PSG4D)
