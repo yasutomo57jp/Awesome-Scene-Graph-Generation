@@ -83,6 +83,7 @@ In this graph, the nodes correspond to object bounding boxes with their category
 | [4D-OR](https://github.com/egeozsoy/4D-OR) | 4D(operating room) | 12 | - | 14 | - | - |
 | [MM-OR](https://github.com/egeozsoy/MM-OR) | 4D(operating room) | - | - | - | - | - |
 | [FACTUAL](https://github.com/zhuang-li/FactualSceneGraph) |  Image, Text  | 4,042 | - | 1607 | 40,149 | 40,369 |
+| [TSG Bench](https://tsg-bench.netlify.app/) |  Text  | - | - | - | 11,820 | 4,289 |
 </p>
 
 
@@ -158,7 +159,7 @@ There are three subtasks:
 ### Non-LLM-based
 
 
-
++ [**A Reverse Causal Framework to Mitigate Spurious Correlations for Debiasing Scene Graph Generation**](https://arxiv.org/pdf/2505.23451) [![Paper](https://img.shields.io/badge/TPAMI25-ffa07a)]()
 
 + [**Generalized Visual Relation Detection with Diffusion Models**](https://arxiv.org/pdf/2504.12100) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
@@ -552,6 +553,9 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 
 ## Textual Scene Graph Generation
+
++ [**LLM Meets Scene Graph: Can Large Language Models Understand and Generate Scene Graphs? A Benchmark and Empirical Study**](https://arxiv.org/pdf/2505.19510) [![Paper](https://img.shields.io/badge/ACL25-191970)]()  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tsg-bench.netlify.app/)
+
 
 + [**FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing**](https://arxiv.org/pdf/2305.17497) [![Paper](https://img.shields.io/badge/ACL23-191970)]()  [![Star](https://img.shields.io/github/stars/zhuang-li/FactualSceneGraph.svg?style=social&label=Star)](https://github.com/zhuang-li/FactualSceneGraph) 
 
