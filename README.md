@@ -125,6 +125,9 @@ There are three subtasks:
 
 + [**From Data to Modeling: Fully Open-vocabulary Scene Graph Generation**](https://arxiv.org/pdf/2505.20106) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()    [![Star](https://img.shields.io/github/stars/gpt4vision/OvSGTR.svg?style=social&label=Star)](https://github.com/gpt4vision/OvSGTR) 
 
+
++ [**Synthetic Visual Genome**](https://www.arxiv.org/pdf/2506.07643) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() [![Star](https://img.shields.io/github/stars/jamespark3922/SyntheticVG.svg?style=social&label=Star)](https://github.com/jamespark3922/SyntheticVG)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://synthetic-visual-genome.github.io/)
+
 + [**Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation**](https://arxiv.org/pdf/2503.13947) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() 
 
 
@@ -162,6 +165,9 @@ There are three subtasks:
 
 ### Non-LLM-based
 
++ [**Hybrid Reciprocal Transformer with Triplet Feature Alignment for Scene Graph Generation**](https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Hybrid_Reciprocal_Transformer_with_Triplet_Feature_Alignment_for_Scene_Graph_CVPR_2025_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hq-sg.github.io/)
+
++ [**Navigating the Unseen: Zero-shot Scene Graph Generation via Capsule-Based Equivariant Features**](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Navigating_the_Unseen_Zero-shot_Scene_Graph_Generation_via_Capsule-Based_Equivariant_CVPR_2025_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()
 
 + [**A Reverse Causal Framework to Mitigate Spurious Correlations for Debiasing Scene Graph Generation**](https://arxiv.org/pdf/2505.23451) [![Paper](https://img.shields.io/badge/TPAMI25-ffa07a)]()
 
@@ -407,7 +413,11 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 ### Non-LLM-based
 
-+ [**DIFFVSGG: Diffusion-Driven Online Video Scene Graph Generation**](https://arxiv.org/pdf/2503.13957v1) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Star](https://img.shields.io/github/stars/kagawa588/DiffVsgg.svg?style=social&label=Star)](https://github.com/kagawa588/DiffVsgg)
++ [**DIFFVSGG: Diffusion-Driven Online Video Scene Graph Generation**](https://arxiv.org/pdf/2503.13957v1) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() [![Star](https://img.shields.io/github/stars/kagawa588/DiffVsgg.svg?style=social&label=Star)](https://github.com/kagawa588/DiffVsgg)
+
++ [**Towards Unbiased and Robust Spatio-Temporal Scene Graph Generation and Anticipation**](https://arxiv.org/pdf/2411.13059) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()  [![Star](https://img.shields.io/github/stars/rohithpeddi/ImparTail.svg?style=social&label=Star)](https://github.com/rohithpeddi/ImparTail)
+
++ [**HyperGLM: HyperGraph for Video Scene Graph Generation and Anticipation**](https://openaccess.thecvf.com/content/CVPR2025/papers/Nguyen_HyperGLM_HyperGraph_for_Video_Scene_Graph_Generation_and_Anticipation_CVPR_2025_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()
 
 + [**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**](https://arxiv.org/pdf/2504.07867) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
@@ -426,7 +436,6 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 + [**Towards Unbiased and Robust Spatio-Temporal Scene Graph Generation and Anticipation**](https://arxiv.org/pdf/2411.13059) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
-+ [**HyperGLM: HyperGraph for Video Scene Graph Generation and Anticipation**](https://arxiv.org/pdf/2411.18042) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
 + [**CYCLO: Cyclic Graph Transformer Approach to Multi-Object Relationship Modeling in Aerial Videos**](https://arxiv.org/pdf/2406.01029) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
@@ -491,15 +500,19 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 Given a 3D point cloud $P \in R^{N×3}$ consisting of $N$ points, we assume there is a set of class-agnostic instance masks $M = \{M_1, ..., M_K\}$ corresponding to $K$ entities in $P$, `3D Scene Graph Generation` aims to map the input 3D point cloud to a reliable semantically structured scene graph $G = \{O, R\}$. 
 Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
++ [**Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces**](https://arxiv.org/pdf/2503.19199)  [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://openfungraph.github.io/)
 
-  + **Blief Scene Graph**
 
-    A utility-enhanced extension of a given incomplete scene graph $G^{'}$, by incorporating objects in $C$ (i.e., the object sets relevant for a robotic mission) into $G^{'}$, using the learnt CECI (i.e., Computation of Expectation of finding objects in $C$ based on Correlation Information) information. Belief Scene Graphs enable highlevel reasoning and optimized task planning involving set $C$, which was impossible with the incomplete $G^{'}$.
-    <details><summary>中文解释</summary>“信念场景图” (Belief Scene Graphs, BSG), 它是对传统3D场景图的扩展，旨在利用局部信息进行高效的高级任务规划。论文的核心在于提出了一种基于图的学习方法，用于计算3D场景图上的“信念”（belief），也称为“期望”（expectation）。这种期望被用来策略性地添加新的节点（称为“盲节点”blind nodes），这些节点与机器人任务相关，但尚未被实际观察到。</details>
 
-    + [**Estimating Commonsense Scene Composition on Belief Scene Graphs**](https://arxiv.org/pdf/2505.02405) [![Paper](https://img.shields.io/badge/ICRA2025-b22222)]()
 
-    + [**Belief Scene Graphs: Expanding Partial Scenes with Object through Computation of Expectation**](https://arxiv.org/pdf/2402.03840) [![Paper](https://img.shields.io/badge/ICRA2024-b22222)]()
++ **Blief Scene Graph**
+
+  A utility-enhanced extension of a given incomplete scene graph $G^{'}$, by incorporating objects in $C$ (i.e., the object sets relevant for a robotic mission) into $G^{'}$, using the learnt CECI (i.e., Computation of Expectation of finding objects in $C$ based on Correlation Information) information. Belief Scene Graphs enable highlevel reasoning and optimized task planning involving set $C$, which was impossible with the incomplete $G^{'}$.
+  <details><summary>中文解释</summary>“信念场景图” (Belief Scene Graphs, BSG), 它是对传统3D场景图的扩展，旨在利用局部信息进行高效的高级任务规划。论文的核心在于提出了一种基于图的学习方法，用于计算3D场景图上的“信念”（belief），也称为“期望”（expectation）。这种期望被用来策略性地添加新的节点（称为“盲节点”blind nodes），这些节点与机器人任务相关，但尚未被实际观察到。</details>
+
+  + [**Estimating Commonsense Scene Composition on Belief Scene Graphs**](https://arxiv.org/pdf/2505.02405) [![Paper](https://img.shields.io/badge/ICRA2025-b22222)]()
+
+  + [**Belief Scene Graphs: Expanding Partial Scenes with Object through Computation of Expectation**](https://arxiv.org/pdf/2402.03840) [![Paper](https://img.shields.io/badge/ICRA2024-b22222)]()
 
 
 
@@ -623,7 +636,7 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 + [**The Devil is in the Distributions: Explicit Modeling of Scene Content is Key in Zero-Shot Video Captioning**](https://arxiv.org/pdf/2503.23679) ![Paper](https://img.shields.io/badge/arXiv25-b22222)
 
-+ [**Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning**](https://arxiv.org/pdf/2412.08614) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/LuFan31/CompreCap.svg?style=social&label=Star)](https://github.com/LuFan31/CompreCap)
++ [**Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning**](https://arxiv.org/pdf/2412.08614) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() [![Star](https://img.shields.io/github/stars/LuFan31/CompreCap.svg?style=social&label=Star)](https://github.com/LuFan31/CompreCap)
 
 + [**Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions**](https://arxiv.org/pdf/2407.06723) [![Paper](https://img.shields.io/badge/arXiv24-b22222)](https://arxiv.org/pdf/2407.06723) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://huggingface.co/graph-based-captions)<details><summary>Introducing new dataset GBC10M</summary>Humans describe complex scenes with compositionality, using simple text descriptions enriched with links and relationships. While vision-language research has aimed to develop models with compositional understanding capabilities, this is not reflected yet in existing datasets which, for the most part, still use plain text to describe images. In this work, we propose a new annotation strategy, graph-based captioning (GBC) that describes an image using a labelled graph structure, with nodes of various types. We demonstrate that GBC can be produced automatically, using off-the-shelf multimodal LLMs and open-vocabulary detection models, by building a new dataset, GBC10M, gathering GBC annotations for about 10M images of the CC12M dataset</details>
 
