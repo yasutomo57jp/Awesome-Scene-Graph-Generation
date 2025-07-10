@@ -14,7 +14,7 @@ I'll also be collecting and sharing thought-provoking questions related to the f
   
   Scene graphs are a form of explicit scene representation. But with the rise of implicit scene representations, is this approach still effective? Which representation is more promising moving forward?
 
-Let us know what you think in the discussion thread!
+Let us know what you think in the [discussion thread](https://github.com/ChocoWu/Awesome-Scene-Graph-Generation/issues/7)!
 
 
 
