@@ -135,6 +135,8 @@ There are three subtasks:
   <details><summary>R1-based model</summary> R1-SGG, a novel framework leveraging visual instruction tuning enhanced by reinforcement learning (RL). The visual instruction tuning stage follows a conventional supervised fine-tuning (SFT) paradigm, i.e., finetuning the model using prompt-response pairs with a cross-entropy loss. For the RL stage, we adopt GRPO, an online policy optimization algorithm, in which an node-level reward and edge-level reward are designed.</details>
 
 
++ [**Hallucinate, Ground, Repeat: A Framework for Generalized Visual Relationship Detection**](https://arxiv.org/pdf/2506.05651) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
+
 + [**PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks**](https://arxiv.org/pdf/2504.00844) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
 
 
@@ -186,6 +188,12 @@ There are three subtasks:
 + [**Navigating the Unseen: Zero-shot Scene Graph Generation via Capsule-Based Equivariant Features**](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Navigating_the_Unseen_Zero-shot_Scene_Graph_Generation_via_Capsule-Based_Equivariant_CVPR_2025_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()
 
 + [**A Reverse Causal Framework to Mitigate Spurious Correlations for Debiasing Scene Graph Generation**](https://arxiv.org/pdf/2505.23451) [![Paper](https://img.shields.io/badge/TPAMI25-ffa07a)]()
+
+
++ [**CoPa-SG: Dense Scene Graphs with Parametric and Proto-Relations**](https://arxiv.org/pdf/2506.21357) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+  <details><summary>Introduce the concept of parametric relations</summary>To eliminate ambiguous predicate definitions, we introduce the concept of <b>parametric relations</b>. In addition to a traditional predicate label, we store a <b>parameter</b> (e.g. an angle or a distance) that enables a more fine-grained representation. We show how existing models can be adapted to the new parametric scene graph generation task. Additionally, we introduce <b>proto-relations</b> as a novel technique for representing hypothetical relations. Given an anchor object and a predicate, a proto-relation describes the volume or area that another object would need to intersect to fulfill the associated relation with the anchor object. Protorelations can encode information such as "somewhere next to the TV" or "the area behind the sofa". This representation will arguably be useful for agents that use scene graphs as their intermediate knowledge state.</details>
+
++ [**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**](https://arxiv.org/pdf/2506.19639) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
 + [**Generalized Visual Relation Detection with Diffusion Models**](https://arxiv.org/pdf/2504.12100) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
@@ -591,7 +599,7 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 ## Textual Scene Graph Generation
 
-+ [**DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement**](https://arxiv.org/abs/2506.15583) [![Star](https://img.shields.io/github/stars/ShaoqLin/DiscoSG.svg?style=social&label=Star)](https://github.com/ShaoqLin/DiscoSG) 
++ [**DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement**](https://arxiv.org/abs/2506.15583) ![Paper](https://img.shields.io/badge/arXiv25-b22222) [![Star](https://img.shields.io/github/stars/ShaoqLin/DiscoSG.svg?style=social&label=Star)](https://github.com/ShaoqLin/DiscoSG) 
 
 + [**LLM Meets Scene Graph: Can Large Language Models Understand and Generate Scene Graphs? A Benchmark and Empirical Study**](https://arxiv.org/pdf/2505.19510) [![Paper](https://img.shields.io/badge/ACL25-191970)]()  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tsg-bench.netlify.app/)
 
@@ -807,9 +815,15 @@ textual features from vision-language models to visual conceptual understanding.
 
 ## 3D Scene Generation
 
+
++ [**LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**](https://arxiv.org/pdf/2506.07570) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
++ [**Towards Terrain-Aware Task-Driven 3D Scene Graph Generation in Outdoor Environments**](https://arxiv.org/pdf/2506.06562) [![Paper](https://img.shields.io/badge/ICRA25W-b22222)]()
+
 + [**ScanEdit: Hierarchically-Guided Functional 3D Scan Editing**](https://arxiv.org/pdf/2504.15049)  [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://aminebdj.github.io/scanedit/)
 
 + [**Controllable 3D Outdoor Scene Generation via Scene Graphs**](https://arxiv.org/pdf/2503.07152) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yuheng.ink/project-page/control-3d-scene/) [![Star](https://img.shields.io/github/stars/yuhengliu02/control-3d-scene.svg?style=social&label=Star)](https://github.com/yuhengliu02/control-3d-scene) 
+
 
 
 + [**MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation**](https://arxiv.org/pdf/2502.05874) [![Paper](https://img.shields.io/badge/AAAI25-191970)]() [![Star](https://img.shields.io/github/stars/yangzhifeio/MMGDreamer.svg?style=social&label=Star)](https://github.com/yangzhifeio/MMGDreamer) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yangzhifeio.github.io/project/MMGDreamer/)
@@ -856,6 +870,9 @@ dataset Visual Genome (VG), from which semantic triplets follow real-world distr
 
 
 ## Dynamic Environment Guidance
+
++ [**A Spatial Relationship Aware Dataset for Robotics**](https://arxiv.org/pdf/2506.12525) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Star](https://img.shields.io/github/stars/PengPaulWang/SpatialAwareRobotDataset.svg?style=social&label=Star)](https://github.com/PengPaulWang/SpatialAwareRobotDataset)
+ 
 + [**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**](https://arxiv.org/pdf/2505.07815) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)]([real-stanford/semantic-abstraction](https://ive-robot.github.io/))
 
 
