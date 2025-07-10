@@ -7,6 +7,7 @@
 We're excited to introduce a new section: Hot Topics 🔥!
 
 We'll regularly post interesting discussion topics in the Issues tab. If you're interested, feel free to jump in and share your thoughts! These discussions are purely for idea exchange and community engagement 
+
 I'll also be collecting and sharing thought-provoking questions related to the future of scene graphs and scene understanding in general. Everyone is welcome to join the conversation!
 
 ## 🔍 First Topic:
@@ -139,6 +140,7 @@ There are three subtasks:
 
 + [**From Data to Modeling: Fully Open-vocabulary Scene Graph Generation**](https://arxiv.org/pdf/2505.20106) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()    [![Star](https://img.shields.io/github/stars/gpt4vision/OvSGTR.svg?style=social&label=Star)](https://github.com/gpt4vision/OvSGTR) 
 
++ [**Open World Scene Graph Generation using Vision Language Models**](https://arxiv.org/pdf/2506.08189) [![Paper](https://img.shields.io/badge/CVPR25W-8A2BE2)]() 
 
 + [**Synthetic Visual Genome**](https://www.arxiv.org/pdf/2506.07643) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() [![Star](https://img.shields.io/github/stars/jamespark3922/SyntheticVG.svg?style=social&label=Star)](https://github.com/jamespark3922/SyntheticVG)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://synthetic-visual-genome.github.io/)
 
@@ -722,6 +724,8 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 
 ## Visual Reasoning
+
++ [**FreeQ-Graph: Free-form Querying with Semantic Consistent Scene Graph for 3D Scene Understanding**](https://arxiv.org/pdf/2506.13629) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
 + [**Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning**](https://arxiv.org/pdf/2505.09118) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
