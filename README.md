@@ -871,6 +871,8 @@ dataset Visual Genome (VG), from which semantic triplets follow real-world distr
 
 ## Dynamic Environment Guidance
 
++ [**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**](https://arxiv.org/pdf/2505.07815) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)]([real-stanford/semantic-abstraction](https://ive-robot.github.io/))
+
 + [**A Spatial Relationship Aware Dataset for Robotics**](https://arxiv.org/pdf/2506.12525) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Star](https://img.shields.io/github/stars/PengPaulWang/SpatialAwareRobotDataset.svg?style=social&label=Star)](https://github.com/PengPaulWang/SpatialAwareRobotDataset)
  
 + [**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**](https://arxiv.org/pdf/2505.07815) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)]([real-stanford/semantic-abstraction](https://ive-robot.github.io/))
