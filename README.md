@@ -3,6 +3,20 @@
 </div>
 
 
+# 📣 News
+We're excited to introduce a new section: Hot Topics 🔥!
+
+We'll regularly post interesting discussion topics in the Issues tab. If you're interested, feel free to jump in and share your thoughts! These discussions are purely for idea exchange and community engagement 
+I'll also be collecting and sharing thought-provoking questions related to the future of scene graphs and scene understanding in general. Everyone is welcome to join the conversation!
+
+## 🔍 First Topic:
+- **"Are scene graphs still a good way to represent and understand scenes?"**
+  
+  Scene graphs are a form of explicit scene representation. But with the rise of implicit scene representations, is this approach still effective? Which representation is more promising moving forward?
+
+Let us know what you think in the discussion thread!
+
+
 
 
 # 🎨 Introduction 
