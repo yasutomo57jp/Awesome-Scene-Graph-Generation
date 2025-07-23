@@ -86,6 +86,7 @@ In this graph, the nodes correspond to object bounding boxes with their category
 | [STAR](https://arxiv.org/pdf/2406.09410) | Satellite Imagery | 48 | 219,120 | 58 | 400,795 | 31,096 |
 | [ReCon1M](https://arxiv.org/pdf/2406.06028) | Satellite Imagery | 60 |  859,751 | 64 | 1,149,342 |  21,392 |
 | [SkySenseGPT](https://github.com/Luo-Z13/SkySenseGPT) | Satellite Imagery (Instruction) | - | - | - | - | - |
+| [Traffic Scene Graph](https://ieeexplore.ieee.org/abstract/document/9900075) | Traffic Image| 2，266 | - | 4,272 | - | 451 |
 | [ImageNet-VidVRD](https://xdshang.github.io/docs/imagenet-vidvrd.html) | Video | 35 | - | 132 | 3,219 | 100 |
 | [VidOR](https://xdshang.github.io/docs/vidor.html) | Video | 80 | - | 50 | - | 10,000 |
 | [Action Genome](https://github.com/JingweiJ/ActionGenome) | Video | 35 | 0.4M | 25 | 1.7M | 10,000 |
@@ -932,6 +933,29 @@ a scene and accommodate them with proper places.</details>
 + [**VISAGE: Video Synthesis using Action Graphs for Surgery**](https://arxiv.org/pdf/2410.17751) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
 
+
+
+
+
+## Automated Driving & Intelligent Transport Systems
+
+- Traffic scene graph is constructed thought spatial location rule. For example, using BEV rules to derive triplets like `ego-vehicle, isin, lane-3`, `ego-vehicle, to right of, pedestrian-1`, and `ego-vehicle, very near, pedestrian-2`.
+
++ [**Hktsg: A hierarchical knowledge-guided traffic scene graph representation learning framework for intelligent vehicles**](https://ieeexplore.ieee.org/abstract/document/10491331) [![Paper](https://img.shields.io/badge/TIV24-b22222)]()
+
+
++ [**Edge Feature-Enhanced Network for Collision Risk Assessment Using Traffic Scene Graphs**](https://ieeexplore.ieee.org/abstract/document/10706588) [![Paper](https://img.shields.io/badge/TSM24-b22222)]() 
+
+
++ [**Learning from interaction-enhanced scene graph for pedestrian collision risk assessment**](https://ieeexplore.ieee.org/abstract/document/10232886) [![Paper](https://img.shields.io/badge/TIV23-b22222)]() 
+
+
++ [**Toward driving scene understanding: A paradigm and benchmark dataset for ego-centric traffic scene graph representation**](https://ieeexplore.ieee.org/abstract/document/9900075) [![Paper](https://img.shields.io/badge/JRFI22-b22222)]() 
+
++ [**roadscene2vec: A tool for extracting and embedding road scene-graphs**](https://www.sciencedirect.com/science/article/pii/S0950705122000739) [![Paper](https://img.shields.io/badge/KBS22-b22222)]()
+
++ [**Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions**](https://ieeexplore.ieee.org/abstract/document/9423525)  [![Paper](https://img.shields.io/badge/TITS22-b22222)]()
+ 
 ---
 
 
