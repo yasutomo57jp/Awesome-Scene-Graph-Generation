@@ -220,7 +220,10 @@ There are three subtasks:
 + [**Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction**](https://arxiv.org/pdf/2407.19259) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/Zhuzi24/SBG.svg?style=social&label=Star)](https://github.com/Zhuzi24/SBG)
 
 
++ [**REACT: Real-time Efficiency and Accuracy Compromise for Tradeoffs in Scene Graph Generation**](https://arxiv.org/pdf/2405.16116)  [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/Maelic/SGG-Benchmark.svg?style=social&label=Star)](https://github.com/Maelic/SGG-Benchmark)
+
 + [**BCTR: Bidirectional Conditioning Transformer for Scene Graph Generation**](https://arxiv.org/pdf/2407.18715)  [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() 
+
 
 + [**Hydra-SGG: Hybrid Relation Assignment for One-stage Scene Graph Generation**](https://arxiv.org/pdf/2409.10262) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() 
 
@@ -983,6 +986,8 @@ Here, we provide some toolkits for parsing scene graphs or other useful tools fo
 
 + [**Scene-Graph-Benchmark.pytorch**](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)  [![Star](https://img.shields.io/github/stars/KaihuaTang/Scene-Graph-Benchmark.pytorch.svg?style=social&label=Star)](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)
 
++ [**SGG-Benchmark🙆‍♀️👈**](https://github.com/Maelic/SGG-Benchmark)  [![Star](https://img.shields.io/github/stars/Maelic/SGG-Benchmark.svg?style=social&label=Star)](https://github.com/Maelic/SGG-Benchmark)
+  <details><summary>A new benchmark for the task of Scene Graph Generation</summary>This new codebase provides an up-to-date and easy-to-run implementation of common approaches in the filed of Scene Graph Generation. Welcome to have a try and contribute to this codebase.</details>
 
 
 ## Workshop
