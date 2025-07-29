@@ -266,7 +266,7 @@ There are three subtasks:
 
 + [**ReCon1M:A Large-scale Benchmark Dataset for Relation Comprehension in Remote Sensing Imagery**](https://arxiv.org/pdf/2406.06028) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
-+ [**RepSGG: Novel Representations of Entities and Relationships for Scene Graph Generation**](https://ieeexplore.ieee.org/document/10531674)  [![Paper](https://img.shields.io/badge/arXiv22-b22222)]()
++ [**RepSGG: Novel Representations of Entities and Relationships for Scene Graph Generation**](https://ieeexplore.ieee.org/document/10531674)  [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
 + [**Hierarchical Relationships: A New Perspective to Enhance Scene Graph Generation**](https://arxiv.org/pdf/2303.06842)  [![Paper](https://img.shields.io/badge/TPAMI24-ffa07a)]()
 
@@ -459,10 +459,6 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 
 + [**End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting**](https://arxiv.org/pdf/2409.12499) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
-
-+ [**Towards Unbiased and Robust Spatio-Temporal Scene Graph Generation and Anticipation**](https://arxiv.org/pdf/2411.13059) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
-
-+ [**Towards Unbiased and Robust Spatio-Temporal Scene Graph Generation and Anticipation**](https://arxiv.org/pdf/2411.13059) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
 
 + [**CYCLO: Cyclic Graph Transformer Approach to Multi-Object Relationship Modeling in Aerial Videos**](https://arxiv.org/pdf/2406.01029) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
