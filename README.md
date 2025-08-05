@@ -929,6 +929,8 @@ a scene and accommodate them with proper places.</details>
 
 ## Video Generation
 
++ [**Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with LLMs**](https://arxiv.org/pdf/2308.13812) [![Paper](https://img.shields.io/badge/CVPR24-8A2BE2)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://haofei.vip/Dysen-VDM/)
+
 + [**VISAGE: Video Synthesis using Action Graphs for Surgery**](https://arxiv.org/pdf/2410.17751) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
 
