@@ -720,6 +720,7 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 + [**Scene Graph to Image Synthesis via Knowledge Consensus**](https://ojs.aaai.org/index.php/AAAI/article/view/25387) [![Paper](https://img.shields.io/badge/AAAI23-2f4f4f)]()
 
++ [**Transformer-based Image Generation from Scene Graphs**](https://arxiv.org/pdf/2303.04634) [![Paper](https://img.shields.io/badge/arXiv23-b22222)]() 
 
 + [**Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Trainin**](https://arxiv.org/pdf/2211.11138)  [![Paper](https://img.shields.io/badge/arXiv22-b22222)]()  [![Star](https://img.shields.io/github/stars/YangLing0818/SGDiff.svg?style=social&label=Star)](https://github.com/YangLing0818/SGDiff)
 
