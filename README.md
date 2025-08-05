@@ -748,7 +748,6 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 + [**Generative Visual Commonsense Answering and Explaining with Generative Scene Graph Constructing**](https://arxiv.org/pdf/2501.09041) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
-+ [**Fine-Grained Video Captioning through Scene Graph Consolidation**](https://arxiv.org/pdf/2502.16427) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
 + [**STEP: Enhancing Video-LLMs’ Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training**](https://arxiv.org/pdf/2412.00161) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]()
 
@@ -774,6 +773,7 @@ textual features from vision-language models to visual conceptual understanding.
 + [**VQA-GNN: Reasoning with Multimodal Knowledge via Graph Neural Networks for Visual Question Answering**](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_VQA-GNN_Reasoning_with_Multimodal_Knowledge_via_Graph_Neural_Networks_for_ICCV_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV23-2f4f4f)]()
 
 
++ [**Graphhopper: Multi-hop Scene Graph Reasoning for Visual Question Answering**](https://arxiv.org/pdf/2107.06325) [![Paper](https://img.shields.io/badge/ISWC21-6f1977)]()
 
 
 
@@ -903,7 +903,7 @@ a scene and accommodate them with proper places.</details>
 
 + [**Situational Instructions Database: Task Guidance in Dynamic Environments**](https://arxiv.org/pdf/2406.13302) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/mindgarage/situational-instructions-database.svg?style=social&label=Star)](https://github.com/mindgarage/situational-instructions-database) <details><summary>Situational Instructions Database (SID)</summary>Situational Instructions Database (SID) is a dataset for dynamic task guidance. It contains situationally-aware instructions for performing a wide range of everyday tasks or completing scenarios in 3D environments. The dataset provides step-by-step instructions for these scenarios which are grounded in the context of the situation. This context is defined through a scenario-specific scene graph that captures the objects, their attributes, and their relations in the environment. The dataset is designed to enable research in the areas of grounded language learning, instruction following, and situated dialogue.</details>
 
-+ [**RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation**](https://arxiv.org/pdf/2405.05792) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://oravus.github.io/RoboHop/)
++ [**RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation**](https://arxiv.org/pdf/2405.05792) [![Paper](https://img.shields.io/badge/ICRA24-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://oravus.github.io/RoboHop/)
 
 + [**LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots**]() [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/donggehan/codellmpersonalize.svg?style=social&label=Star)](https://github.com/donggehan/codellmpersonalize) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://donggehan.github.io/projectllmpersonalize/)
 
