@@ -943,6 +943,11 @@ a scene and accommodate them with proper places.</details>
 
 - Traffic scene graph is constructed thought spatial location rule. For example, using BEV rules to derive triplets like `ego-vehicle, isin, lane-3`, `ego-vehicle, to right of, pedestrian-1`, and `ego-vehicle, very near, pedestrian-2`.
 
++ [**T2SG: Traffic Topology Scene Graph for Topology Reasoning in Autonomous Driving**](https://openaccess.thecvf.com/content/CVPR2025/papers/Lv_T2SG_Traffic_Topology_Scene_Graph_for_Topology_Reasoning_in_Autonomous_CVPR_2025_paper.pdf)   [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()   [![Star](https://img.shields.io/github/stars/MICLAB-BUPT/T2SG.svg?style=social&label=Star)](https://github.com/MICLAB-BUPT/T2SG)
+
+
++ [**Collaborative Dynamic 3D Scene Graphs for Automated Driving**](https://arxiv.org/pdf/2309.06635)  [![Paper](https://img.shields.io/badge/ICRA24-b22222)]()  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://curb.cs.uni-freiburg.de/)  [![Star](https://img.shields.io/github/stars/robot-learning-freiburg/CURB-SG.svg?style=social&label=Star)](https://github.com/robot-learning-freiburg/CURB-SG)
+
 + [**Hktsg: A hierarchical knowledge-guided traffic scene graph representation learning framework for intelligent vehicles**](https://ieeexplore.ieee.org/abstract/document/10491331) [![Paper](https://img.shields.io/badge/TIV24-b22222)]()
 
 
