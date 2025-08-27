@@ -105,6 +105,23 @@ In this graph, the nodes correspond to object bounding boxes with their category
 </p>
 
 
+## Toolkit
+Here, we provide some toolkits for parsing scene graphs or other useful tools for referencess.
+
+
++ [**Stanford Scene Graph Parser**](https://nlp.stanford.edu/software/scenegraph-parser.shtml)
+
++ [**SceneGraphParser**](https://github.com/vacancy/SceneGraphParser) [![Star](https://img.shields.io/github/stars/vacancy/SceneGraphParser.svg?style=social&label=Star)](https://github.com/vacancy/SceneGraphParser)
+
++ [**FactualSceneGraph**](https://github.com/zhuang-li/FactualSceneGraph) [![Star](https://img.shields.io/github/stars/zhuang-li/FactualSceneGraph.svg?style=social&label=Star)](https://github.com/zhuang-li/FactualSceneGraph)
+
++ [**Scene-Graph-Benchmark.pytorch**](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)  [![Star](https://img.shields.io/github/stars/KaihuaTang/Scene-Graph-Benchmark.pytorch.svg?style=social&label=Star)](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)
+
++ [**SGG-Benchmark🙆‍♀️👈**](https://github.com/Maelic/SGG-Benchmark)  [![Star](https://img.shields.io/github/stars/Maelic/SGG-Benchmark.svg?style=social&label=Star)](https://github.com/Maelic/SGG-Benchmark)
+  <details><summary>A new benchmark for the task of Scene Graph Generation</summary>This new codebase provides an up-to-date and easy-to-run implementation of common approaches in the filed of Scene Graph Generation. Welcome to have a try and contribute to this codebase.</details>
+
++ [**SGG-Annotate**](https://github.com/Maelic/SGG-Annotate) [![Star](https://img.shields.io/github/stars/Maelic/SGG-Annotate.svg?style=social&label=Star)](https://github.com/Maelic/SGG-Annotate)
+  <details><summary>Scene Graph Annotation tool</summary>A modern annotation tool for annotating visual relationships in COCO format.</details>
 ---
 
 <!-- CVPR-8A2BE2 -->
@@ -440,6 +457,8 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 
 ### Non-LLM-based
+
++ [**TRKT:Weakly Supervised Dynamic Scene Graph Generation with Temporal-enhanced Relation-aware Knowledge Transferring**](https://arxiv.org/pdf/2508.04943) [![Paper](https://img.shields.io/badge/ICCV25-00CED1)]() [![Star](https://img.shields.io/github/stars/XZPKU/TRKT.svg?style=social&label=Star)](https://github.com/XZPKU/TRKT)
 
 + [**DIFFVSGG: Diffusion-Driven Online Video Scene Graph Generation**](https://arxiv.org/pdf/2503.13957v1) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]() [![Star](https://img.shields.io/github/stars/kagawa588/DiffVsgg.svg?style=social&label=Star)](https://github.com/kagawa588/DiffVsgg)
 
@@ -872,6 +891,8 @@ dataset Visual Genome (VG), from which semantic triplets follow real-world distr
 
 ## Dynamic Environment Guidance
 
++ [**Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control**](https://www.arxiv.org/pdf/2508.05342) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
 + [**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**](https://arxiv.org/pdf/2505.07815) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)]([real-stanford/semantic-abstraction](https://ive-robot.github.io/))
 
 + [**A Spatial Relationship Aware Dataset for Robotics**](https://arxiv.org/pdf/2506.12525) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Star](https://img.shields.io/github/stars/PengPaulWang/SpatialAwareRobotDataset.svg?style=social&label=Star)](https://github.com/PengPaulWang/SpatialAwareRobotDataset)
@@ -978,20 +999,7 @@ a scene and accommodate them with proper places.</details>
 
 # 🐱‍🚀 Miscellaneous
 
-## Toolkit
-Here, we provide some toolkits for parsing scene graphs or other useful tools for referencess.
 
-
-+ [**Stanford Scene Graph Parser**](https://nlp.stanford.edu/software/scenegraph-parser.shtml)
-
-+ [**SceneGraphParser**](https://github.com/vacancy/SceneGraphParser) [![Star](https://img.shields.io/github/stars/vacancy/SceneGraphParser.svg?style=social&label=Star)](https://github.com/vacancy/SceneGraphParser)
-
-+ [**FactualSceneGraph**](https://github.com/zhuang-li/FactualSceneGraph) [![Star](https://img.shields.io/github/stars/zhuang-li/FactualSceneGraph.svg?style=social&label=Star)](https://github.com/zhuang-li/FactualSceneGraph)
-
-+ [**Scene-Graph-Benchmark.pytorch**](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)  [![Star](https://img.shields.io/github/stars/KaihuaTang/Scene-Graph-Benchmark.pytorch.svg?style=social&label=Star)](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)
-
-+ [**SGG-Benchmark🙆‍♀️👈**](https://github.com/Maelic/SGG-Benchmark)  [![Star](https://img.shields.io/github/stars/Maelic/SGG-Benchmark.svg?style=social&label=Star)](https://github.com/Maelic/SGG-Benchmark)
-  <details><summary>A new benchmark for the task of Scene Graph Generation</summary>This new codebase provides an up-to-date and easy-to-run implementation of common approaches in the filed of Scene Graph Generation. Welcome to have a try and contribute to this codebase.</details>
 
 
 ## Workshop
@@ -1020,6 +1028,8 @@ Here, we provide some toolkits for parsing scene graphs or other useful tools fo
 
 ## Insteresting Works
 
++ [**Benchmarking and Improving Detail Image Caption**](https://arxiv.org/pdf/2405.19092)
+  <details><summary>Utilize SG for Caption Quality Evaluation</summary>This work designs a more reliable caption evaluation metric called CAPTURE (CAPtion evaluation by exTracting and coUpling coRE information). CAPTURE extracts visual elements, e.g., objects, attributes and relations from captions, and then matches these elements through three stages, achieving the highest consistency with expert judgements over other rule-based or model-based caption metrics</details>
 + [**Visually Grounded Concept Composition**](https://arxiv.org/pdf/2109.14115)
 + [**AIMS: All-Inclusive Multi-Level Segmentation for Anything**](https://proceedings.neurips.cc/paper_files/paper/2023/file/3da292ced54290c19fc55d9dba3da793-Paper-Conference.pdf)
 + [**DMESA: Densely Matching Everything by Segmenting Anything**](https://arxiv.org/pdf/2408.00279)
