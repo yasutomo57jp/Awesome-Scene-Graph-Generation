@@ -891,6 +891,8 @@ dataset Visual Genome (VG), from which semantic triplets follow real-world distr
 
 ## Dynamic Environment Guidance
 
++ [**Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies**](https://arxiv.org/pdf/2507.11770) [![Paper](https://img.shields.io/badge/IROS25-b22222)]()
+
 + [**Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control**](https://www.arxiv.org/pdf/2508.05342) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
 + [**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**](https://arxiv.org/pdf/2505.07815) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)]([real-stanford/semantic-abstraction](https://ive-robot.github.io/))
