@@ -149,6 +149,7 @@ There are three subtasks:
 
 ### LLM-based 
 
+
 + [**Compile Scene Graphs with Reinforcement Learning**](https://arxiv.org/pdf/2504.13617) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Star](https://img.shields.io/github/stars/gpt4vision/R1-SGG.svg?style=social&label=Star)](https://github.com/gpt4vision/R1-SGG) 
   <details><summary>R1-based model</summary> R1-SGG, a novel framework leveraging visual instruction tuning enhanced by reinforcement learning (RL). The visual instruction tuning stage follows a conventional supervised fine-tuning (SFT) paradigm, i.e., finetuning the model using prompt-response pairs with a cross-entropy loss. For the RL stage, we adopt GRPO, an online policy optimization algorithm, in which an node-level reward and edge-level reward are designed.</details>
 
@@ -211,7 +212,7 @@ There are three subtasks:
 + [**CoPa-SG: Dense Scene Graphs with Parametric and Proto-Relations**](https://arxiv.org/pdf/2506.21357) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
   <details><summary>Introduce the concept of parametric relations</summary>To eliminate ambiguous predicate definitions, we introduce the concept of <b>parametric relations</b>. In addition to a traditional predicate label, we store a <b>parameter</b> (e.g. an angle or a distance) that enables a more fine-grained representation. We show how existing models can be adapted to the new parametric scene graph generation task. Additionally, we introduce <b>proto-relations</b> as a novel technique for representing hypothetical relations. Given an anchor object and a predicate, a proto-relation describes the volume or area that another object would need to intersect to fulfill the associated relation with the anchor object. Protorelations can encode information such as "somewhere next to the TV" or "the area behind the sofa". This representation will arguably be useful for agents that use scene graphs as their intermediate knowledge state.</details>
 
-+ [**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**](https://arxiv.org/pdf/2506.19639) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**](https://arxiv.org/pdf/2506.19639) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mrunmaivp.github.io/hoiverse/)
 
 + [**Generalized Visual Relation Detection with Diffusion Models**](https://arxiv.org/pdf/2504.12100) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
@@ -675,6 +676,8 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 ## Image/Video Caption 
 
++ [**SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning**](https://arxiv.org/pdf/2508.06125) ![Paper](https://img.shields.io/badge/ICCV25-2f4f4f) [![Star](https://img.shields.io/github/stars/LuFan31/CompreCap.svg?style=social&label=Star)](https://github.com/zl2048/SC-Captioner)
+
 + [**Fine-Grained Video Captioning through Scene Graph Consolidation**](https://arxiv.org/pdf/2502.16427) ![Paper](https://img.shields.io/badge/arXiv25-b22222)
 
 + [**The Devil is in the Distributions: Explicit Modeling of Scene Content is Key in Zero-Shot Video Captioning**](https://arxiv.org/pdf/2503.23679) ![Paper](https://img.shields.io/badge/arXiv25-b22222)
@@ -845,6 +848,7 @@ textual features from vision-language models to visual conceptual understanding.
 
 ## 3D Scene Generation
 
++ [**Causal Reasoning Elicits Controllable 3D Scene Generation**](https://arxiv.org/pdf/2509.15249) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://causalstruct.github.io/) [![Star](https://img.shields.io/github/stars/gokucs/causalstruct.svg?style=social&label=Star)](https://github.com/gokucs/causalstruct)
 
 + [**LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**](https://arxiv.org/pdf/2506.07570) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
@@ -1039,6 +1043,8 @@ a scene and accommodate them with proper places.</details>
 
 
 ## Insteresting Works
+
++ [**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**](https://arxiv.org/pdf/2506.19683)
 
 + [**Benchmarking and Improving Detail Image Caption**](https://arxiv.org/pdf/2405.19092)
   <details><summary>Utilize SG for Caption Quality Evaluation</summary>This work designs a more reliable caption evaluation metric called CAPTURE (CAPtion evaluation by exTracting and coUpling coRE information). CAPTURE extracts visual elements, e.g., objects, attributes and relations from captions, and then matches these elements through three stages, achieving the highest consistency with expert judgements over other rule-based or model-based caption metrics</details>
