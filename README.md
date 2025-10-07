@@ -4,7 +4,10 @@
 
 
 # 📣 News
-We're excited to introduce a new section: Hot Topics 🔥!
+✨✨✨We are organizing a **WACV26 Workshop** on [Scene Graph for Structured Intelligence](https://scene-graph.github.io/SG4SI-WACV26/), welcome submission.
+
+
+We're excited to introduce a new section:🔥 Hot Topics 🔥!
 
 We'll regularly post interesting discussion topics in the Issues tab. If you're interested, feel free to jump in and share your thoughts! These discussions are purely for idea exchange and community engagement 
 
