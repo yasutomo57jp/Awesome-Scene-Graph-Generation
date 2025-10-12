@@ -4,14 +4,14 @@
 
 
 # 📣 News
-✨✨✨We are organizing a **WACV26 Workshop** on [Scene Graph for Structured Intelligence](https://scene-graph.github.io/SG4SI-WACV26/), welcome submission.
+- ✨✨✨We are organizing a **WACV26 Workshop** on [Scene Graph for Structured Intelligence](https://scene-graph.github.io/SG4SI-WACV26/), welcome submission.
 
 
-We're excited to introduce a new section:🔥 Hot Topics 🔥!
+- We're excited to introduce a new section:🔥 Hot Topics 🔥!
 
-We'll regularly post interesting discussion topics in the Issues tab. If you're interested, feel free to jump in and share your thoughts! These discussions are purely for idea exchange and community engagement 
+  We'll regularly post interesting discussion topics in the Issues tab. If you're interested, feel free to jump in and share your thoughts! These discussions are purely for idea exchange and community engagement 
 
-I'll also be collecting and sharing thought-provoking questions related to the future of scene graphs and scene understanding in general. Everyone is welcome to join the conversation!
+  I'll also be collecting and sharing thought-provoking questions related to the future of scene graphs and scene understanding in general. Everyone is welcome to join the conversation!
 
 ## 🔍 First Topic:
 - [**"Are scene graphs still a good way to represent and understand scenes?"**](https://github.com/ChocoWu/Awesome-Scene-Graph-Generation/issues/7)
@@ -399,6 +399,11 @@ There are three subtasks:
 
 Compared with traditional scene graph, each object is grounded by `a panoptic segmentation mask` in PSG, achieving a compresensive structured scene representation.
 
++ [**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**](https://arxiv.org/pdf/2507.05798) [![Paper](https://img.shields.io/badge/ICCV25-00CED1)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://8078qwe.github.io/SPADE/)
+<details><summary>a novel spatialaware diffusion-based framework for open-vocabulary
+PSG</summary>In this paper, they introduced SPADE, a novel spatialaware diffusion-based framework for open-vocabulary PSG. SPADE addresses the limitations of VLM-based PSG models, particularly their weaknesses in spatial relation reasoning. Our approach consists of two key steps: inversion-guided calibration and spatial-aware context reasoning. First, we fine-tune a pre-trained teacher diffusion model into a PSG-specific denoising network using crossattention maps from inversion, optimized with a lightweight LoRA-based calibration strategy. Second, we introduce a spatial-aware relation graph transformer that captures both local and long-range contextual dependencies, improving relation query generation</details>
+
+
 + [**Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension**](https://arxiv.org/pdf/2504.14642) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Star](https://img.shields.io/github/stars/HKUST-LongGroup/Relation-R1.svg?style=social&label=Star)](https://github.com/HKUST-LongGroup/Relation-R1)
   <details><summary>R1-enhanced Visual Relation Reasoning</summary>This work introduces a R1-based Unified framework for joint binary and N-ary relation reasoning with grounded cues.</details>
 
@@ -464,6 +469,9 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 
 ### Non-LLM-based
+
++ [**End-to-End Entity-Predicate Association Reasoning for Dynamic Scene Graph Generation**](https://iccv.thecvf.com/virtual/2025/poster/164)  [![Paper](https://img.shields.io/badge/ICCV25-2f4f4f)]() 
+
 
 + [**TRKT:Weakly Supervised Dynamic Scene Graph Generation with Temporal-enhanced Relation-aware Knowledge Transferring**](https://arxiv.org/pdf/2508.04943) [![Paper](https://img.shields.io/badge/ICCV25-00CED1)]() [![Star](https://img.shields.io/github/stars/XZPKU/TRKT.svg?style=social&label=Star)](https://github.com/XZPKU/TRKT)
 
@@ -711,11 +719,14 @@ Compared with 2D scene graph Generation, the input of 3D SGG is point cloud.
 
 ## 2D Image Generation
 
-+ [**SurGrID: Controllable Surgical Simulation via Scene Graph to I mage Diffusion**](https://arxiv.org/pdf/2502.07945) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
++ [**Leveraging Panoptic Scene Graph for Evaluating Fine-Grained Text-to-Image Generation**](https://iccv.thecvf.com/virtual/2025/poster/899)  [![Paper](https://img.shields.io/badge/ICCV25-2f4f4f)]()
+
++ [**Scene Graph Guided Generation: Enable Accurate Relations Generation in Text-to-Image Models via Textural Rectification**](https://iccv.thecvf.com/virtual/2025/poster/1560)  [![Paper](https://img.shields.io/badge/ICCV25-2f4f4f)]() 
+
++ [**SurGrID: Controllable Surgical Simulation via Scene Graph to Image Diffusion**](https://arxiv.org/pdf/2502.07945) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
 
 + [**Neuro-Symbolic Scene Graph Conditioning for Synthetic Image Dataset Generation**](https://arxiv.org/pdf/2503.17224) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
 
-+ [**SurGrID: Controllable Surgical Simulation via Scene Graph to I mage Diffusion**](https://arxiv.org/pdf/2502.07945) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
 
 + [**LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations**](https://arxiv.org/pdf/2412.08580) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Star](https://img.shields.io/github/stars/mengcye/LAION-SG.svg?style=social&label=Star)](https://github.com/mengcye/LAION-SG)
 
@@ -853,6 +864,9 @@ textual features from vision-language models to visual conceptual understanding.
 
 
 ## 3D Scene Generation
+
++ [**Controllable 3D Outdoor Scene Generation via Scene Graphs**](https://arxiv.org/pdf/2503.07152)  [![Paper](https://img.shields.io/badge/ICCV25-2f4f4f)]()  [![Star](https://img.shields.io/github/stars/yuhengliu02/control-3d-scene.svg?style=social&label=Star)](https://github.com/yuhengliu02/control-3d-scene)
+
 
 + [**Causal Reasoning Elicits Controllable 3D Scene Generation**](https://arxiv.org/pdf/2509.15249) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://causalstruct.github.io/) [![Star](https://img.shields.io/github/stars/gokucs/causalstruct.svg?style=social&label=Star)](https://github.com/gokucs/causalstruct)
 
