@@ -208,6 +208,9 @@ There are three subtasks:
 
 ### Non-LLM-based
 
++ [**Vision-Language Interactive Relation Mining for Open-Vocabulary Scene Graph Generation**](https://iccv.thecvf.com/virtual/2025/poster/267)  [![Paper](https://img.shields.io/badge/ICCV25-2f4f4f)]() 
+
+
 + [**Hybrid Reciprocal Transformer with Triplet Feature Alignment for Scene Graph Generation**](https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Hybrid_Reciprocal_Transformer_with_Triplet_Feature_Alignment_for_Scene_Graph_CVPR_2025_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hq-sg.github.io/)
 
 + [**Navigating the Unseen: Zero-shot Scene Graph Generation via Capsule-Based Equivariant Features**](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Navigating_the_Unseen_Zero-shot_Scene_Graph_Generation_via_Capsule-Based_Equivariant_CVPR_2025_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()
@@ -924,6 +927,9 @@ dataset Visual Genome (VG), from which semantic triplets follow real-world distr
 
 
 ## Dynamic Environment Guidance
+
++ [**Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding**](https://www.arxiv.org/abs/2501.00358)  [![Paper](https://img.shields.io/badge/ICCV25-2f4f4f)]()  [![Star](https://img.shields.io/github/stars/Embodied-VideoAgent/embodied-videoagent.svg?style=social&label=Star)](https://github.com/Embodied-VideoAgent/embodied-videoagent) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)]([real-stanford/semantic-abstraction](https://embodied-videoagent.github.io/))
+
 
 + [**Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies**](https://arxiv.org/pdf/2507.11770) [![Paper](https://img.shields.io/badge/IROS25-b22222)]()
 
