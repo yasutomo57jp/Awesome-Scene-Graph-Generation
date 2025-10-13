@@ -367,6 +367,11 @@ There are three subtasks:
 
 + [**Visual Distant Supervision for Scene Graph Generation**](https://openaccess.thecvf.com/content/ICCV2021/papers/Yao_Visual_Distant_Supervision_for_Scene_Graph_Generation_ICCV_2021_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV21-2f4f4f)]() [![Star](https://img.shields.io/github/stars/thunlp/VisualDS.svg?style=social&label=Star)](https://github.com/thunlp/VisualDS)
 
+
++[**Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation**](https://arxiv.org/pdf/2007.08760)
+[![Paper](https://img.shields.io/badge/ECCV20-1e90ff)]() [![Star](https://img.shields.io/github/stars/Kenneth-Wong/het-eccv20.svg?style=social&label=Star)](https://github.com/Kenneth-Wong/het-eccv20)
+
+
 + [**GPS-Net: Graph Property Sensing Network for Scene Graph Generation**](https://arxiv.org/pdf/2003.12962) [![Paper](https://img.shields.io/badge/CVPR20-8A2BE2)]()  [![Star](https://img.shields.io/github/stars/siml3/GPS-Net.svg?style=social&label=Star)](https://github.com/siml3/GPS-Net)
 
 + [**Weakly Supervised Visual Semantic Parsing**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR20-8A2BE2)]()  [![Star](https://img.shields.io/github/stars/alirezazareian/vspnet.svg?style=social&label=Star)](https://github.com/alirezazareian/vspnet)
