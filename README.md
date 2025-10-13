@@ -1068,7 +1068,7 @@ a scene and accommodate them with proper places.</details>
 
 
 ## Survey
-
++ [**A Survey of Neurosymbolic Visual Reasoning with Scene Graphs and Common Sense Knowledge**](https://neurosymbolic-ai-journal.com/system/files/nai-paper-719.pdf)
 
 + [**Scene Graph Generation: A Comprehensive Survey**](https://arxiv.org/pdf/2201.00443)
 
@@ -1078,6 +1078,8 @@ a scene and accommodate them with proper places.</details>
 
 
 ## Insteresting Works
+
++ [**Group Visual Relation Detection**](https://ieeexplore.ieee.org/document/10906064)
 
 + [**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**](https://arxiv.org/pdf/2506.19683)
 
