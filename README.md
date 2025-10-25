@@ -843,8 +843,9 @@ textual features from vision-language models to visual conceptual understanding.
 + [**Multi-modal Situated Reasoning in 3D Scenes**](https://arxiv.org/pdf/2409.02389) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://bobbywu.com/SOKBench/) [![Star](https://img.shields.io/github/stars/MSR3D/MSR3D.svg?style=social&label=Star)](https://github.com/MSR3D/MSR3D) <details><summary>Introducing a large-scale multimodal situated reasoning dataset, scalably collected leveraging 3D scene graphs and vision-language models (VLMs) across a diverse range of real-world 3D scenes</summary>MSQA includes 251K situated question-answering pairs across 9 distinct question categories, covering complex scenarios and object modalities within 3D scenes. We introduce a novel interleaved multi-modal input setting in our benchmark to provide both texts, images, and point clouds for situation and question description, aiming to resolve ambiguity in describing situations with single-modality inputs (\eg, texts).</details>
 
 
+## Anomaly Detection
 
-
++ [**Scene-Specific Anomalous Relationship Detection Using Scene Graph Summarization**](https://openaccess.thecvf.com/content/CVPR2025W/VAND/html/Lai_Scene-Specific_Anomalous_Relationship_Detection_Using_Scene_Graph_Summarization_CVPRW_2025_paper.html] [![Star](https://img.shields.io/github/stars/chancharikmitra/CCoT.svg?style=social&label=Star)](https://github.com/marow17623/SARD?tab=readme-ov-file)
 
 ## Enhanced VLM/MLLM
 
