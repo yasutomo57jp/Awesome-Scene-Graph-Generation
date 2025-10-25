@@ -108,6 +108,7 @@ In this graph, the nodes correspond to object bounding boxes with their category
 | [FACTUAL](https://github.com/zhuang-li/FactualSceneGraph) |  Image, Text  | 4,042 | - | 1,607 | 40,149 | 40,369 |
 | [TSG Bench](https://tsg-bench.netlify.app/) |  Text  | - | - | - | 11,820 | 4,289 |
 | [DiscoSG-DS](https://github.com/ShaoqLin/DiscoSG) |  Image, Text  | 4,018 | - | 2,033 | 68,478 | 8,830 |
+| [Open-set Scene Graph](https://github.com/MotoharuSonogashira/open-set-scene-graph-dataset) |  Image  | 150 | - | 50 | - | - |
 </p>
 
 
