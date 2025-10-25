@@ -254,6 +254,8 @@ There are three subtasks:
 
 + [**Hydra-SGG: Hybrid Relation Assignment for One-stage Scene Graph Generation**](https://arxiv.org/pdf/2409.10262) [![Paper](https://img.shields.io/badge/arXiv24-b22222)]() 
 
++ [**Relationship-Aware Unknown Object Detection for Open-Set Scene Graph Generation**](https://ieeexplore.ieee.org/document/10654281)
+
 + [**Adaptive Self-training Framework for Fine-grained Scene Graph Generation**](https://arxiv.org/pdf/2401.09786) [![Paper](https://img.shields.io/badge/ICLR24-696969)]() [![Star](https://img.shields.io/github/stars/rlqja1107/torch-ST-SGG.svg?style=social&label=Star)](https://github.com/rlqja1107/torch-ST-SGG)
 
 + [**Scene Graph Generation Strategy with Co-occurrence Knowledge and Learnable Term Frequency**](https://arxiv.org/pdf/2405.12648) [![Paper](https://img.shields.io/badge/ICML24-FF7F50)]()
@@ -344,6 +346,7 @@ There are three subtasks:
 
 + [**Iterative Scene Graph Generation**](https://proceedings.neurips.cc/paper_files/paper/2022/file/99831104028c3b7e6079fd8bdcc42c8f-Paper-Conference.pdf) [![Paper](https://img.shields.io/badge/NIPS22-CD5C5C2)]() [![Star](https://img.shields.io/github/stars/ubc-vision/IterativeSG.svg?style=social&label=Star)](https://github.com/ubc-vision/IterativeSG)
 
++ [**Towards Open-Set Scene Graph Generation With Unknown Objects**](https://ieeexplore.ieee.org/document/9690166) [![Star](https://img.shields.io/github/stars/KanghoonYoon/hetsgg-torch.svg?style=social&label=Star)](https://github.com/MotoharuSonogashira/open-set-scene-graph-generation)
 
 + [**Unbiased Heterogeneous Scene Graph Generation with Relation-Aware Message Passing Neural Network**](https://ojs.aaai.org/index.php/AAAI/article/view/25435/25207) [![Paper](https://img.shields.io/badge/AAAI22-c71585)]() [![Star](https://img.shields.io/github/stars/KanghoonYoon/hetsgg-torch.svg?style=social&label=Star)](https://github.com/KanghoonYoon/hetsgg-torch)
 
