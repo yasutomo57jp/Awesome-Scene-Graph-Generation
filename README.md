@@ -77,6 +77,7 @@ In this graph, the nodes correspond to object bounding boxes with their category
 
 | Dataset |  Modality  |   Obj. Class  | BBox | Rela. Class | Triplets | Instances | 
 |:--------:|:--------:|:--------:| :--------:|  :--------:|  :--------:|  :--------:|
+| [ReplicaSGG](https://github.com/Howardkhh/ReplicaSSG) | Image, 3D | 34 | - | 8 | - | - |
 | [Visual Phrase](https://vision.cs.uiuc.edu/phrasal/) | Image | 8 | 3,271 | 9 | 1,796 | 2,769 |
 | [Scene Graph](https://openaccess.thecvf.com/content_cvpr_2015/papers/Johnson_Image_Retrieval_Using_2015_CVPR_paper.pdf) | Image | 266 | 69,009 | 68 | 109,535 | 5,000 |
 | [VRD](https://cs.stanford.edu/people/ranjaykrishna/vrd/)  | Image | 100 | - | 70 | 37,993 | 5,000 |
@@ -481,6 +482,8 @@ Spatio-Temporal (Video) Scene Graph Generation, a.k.a, dynamic scene graph gener
 
 
 ### Non-LLM-based
+
++ [**FROSS: Faster-than-Real-Time Online 3D Semantic Scene Graph Generation from RGB-D Images**](https://projects.howardkhh.net/FROSS/) [![Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Hou_FROSS_Faster-Than-Real-Time_Online_3D_Semantic_Scene_Graph_Generation_from_RGB-D_ICCV_2025_paper.html)] [![Star](https://img.shields.io/github/stars/Howard-hkh/FROSS.svg?style=social&label=Star)](https://github.com/Howardkhh/FROSS)
 
 + [**End-to-End Entity-Predicate Association Reasoning for Dynamic Scene Graph Generation**](https://iccv.thecvf.com/virtual/2025/poster/164)  [![Paper](https://img.shields.io/badge/ICCV25-2f4f4f)]() 
 
